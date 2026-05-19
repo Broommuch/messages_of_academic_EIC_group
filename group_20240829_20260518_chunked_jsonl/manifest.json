@@ -1,0 +1,5684 @@
+{
+  "metadata": {
+    "name": "QQChatExporter V5 / https://github.com/shuakami/qq-chat-exporter",
+    "copyright": "本软件是免费的开源项目~ 如果您是买来的，请立即退款！如果有帮助到您，欢迎给我点个Star~",
+    "version": "5.5.64",
+    "exportTime": "2026-05-19T04:22:26.232Z",
+    "format": "chunked-jsonl"
+  },
+  "chatInfo": {
+    "name": "电信学院学术交流群",
+    "type": "group",
+    "selfUid": "u_c8cZ62UM2gNvj1FW3TWYHA",
+    "selfUin": "2667632853",
+    "selfName": "运算放大器"
+  },
+  "statistics": {
+    "totalMessages": 23558,
+    "timeRange": {
+      "start": "2024-08-28T04:54:34.000Z",
+      "end": "2026-05-19T03:59:26.000Z",
+      "durationDays": 629
+    },
+    "messageTypes": {
+      "text": 18515,
+      "system": 2501,
+      "reply": 2269,
+      "file": 146,
+      "type_10": 1,
+      "type_17": 69,
+      "forward": 8,
+      "json": 44,
+      "audio": 2,
+      "video": 3
+    },
+    "senders": [
+      {
+        "uid": "未知",
+        "name": "0",
+        "messageCount": 1663,
+        "percentage": 7.06
+      },
+      {
+        "uid": "u_ter-ngmNq2wPOUG60Bgp8g",
+        "name": "通信2303周子晋",
+        "messageCount": 1026,
+        "percentage": 4.36
+      },
+      {
+        "uid": "u_aQutWmYTNLtU1oOHYeZKWw",
+        "name": "通信2301-张若桢",
+        "messageCount": 831,
+        "percentage": 3.53
+      },
+      {
+        "uid": "u_g7js0AZj0w56BuLeyq1q5A",
+        "name": "电磁2402李烨春",
+        "messageCount": 561,
+        "percentage": 2.38
+      },
+      {
+        "uid": "u_qwnt6J3C5qkZ6Vh7TRDnPQ",
+        "name": "电信2303-柯雄峰",
+        "messageCount": 532,
+        "percentage": 2.26
+      },
+      {
+        "uid": "u_9TE4SncHy_qq6Cd4QdLWyQ",
+        "name": "提高2201-谢悦晋",
+        "messageCount": 518,
+        "percentage": 2.2
+      },
+      {
+        "uid": "u_s4o_5njJiSVP5T5MmvGYuA",
+        "name": "2077电信刘颖浩",
+        "messageCount": 457,
+        "percentage": 1.94
+      },
+      {
+        "uid": "u_lm_12hUM0V2SlBIeESJWhQ",
+        "name": "AmazingFive",
+        "messageCount": 452,
+        "percentage": 1.92
+      },
+      {
+        "uid": "u_y1QKn78iGYCaEhU1J7ACMQ",
+        "name": "通信2301-肖颖",
+        "messageCount": 434,
+        "percentage": 1.84
+      },
+      {
+        "uid": "u_BVpMdAqGn8pHaleh6QHYog",
+        "name": "电信2205–黄超然",
+        "messageCount": 421,
+        "percentage": 1.79
+      },
+      {
+        "uid": "u_haWZsxKf29Tf3WFVHrTCFQ",
+        "name": "电信2403王虹宇",
+        "messageCount": 365,
+        "percentage": 1.55
+      },
+      {
+        "uid": "u_Z8yrvwYDnSuqMWKkqaoTMg",
+        "name": "通信2303王爽",
+        "messageCount": 325,
+        "percentage": 1.38
+      },
+      {
+        "uid": "u_cUengdOkVyc5vo2mfR2JWw",
+        "name": "电信创新2402陈侃侃",
+        "messageCount": 317,
+        "percentage": 1.35
+      },
+      {
+        "uid": "u_wTVnCg_aHlCUHWYsaF4nhg",
+        "name": "电信2303 钟荣达",
+        "messageCount": 265,
+        "percentage": 1.12
+      },
+      {
+        "uid": "u_Bm1oJQ4JCHR5nw7vfc82Vw",
+        "name": "电信2404-陈创",
+        "messageCount": 243,
+        "percentage": 1.03
+      },
+      {
+        "uid": "u_xdv5CYTWZkjmlvbFH7GpHg",
+        "name": "种子2301-徐子杰",
+        "messageCount": 228,
+        "percentage": 0.97
+      },
+      {
+        "uid": "u_KNy90npExFCPDXKPQN2_dA",
+        "name": "电信2302班刘桐希",
+        "messageCount": 218,
+        "percentage": 0.93
+      },
+      {
+        "uid": "u_y6Cx0xPyEJ-dWji4_v99hg",
+        "name": "电信2402-王艺涵",
+        "messageCount": 189,
+        "percentage": 0.8
+      },
+      {
+        "uid": "u_9apuq-4v4mBFjBSUPlZ1ag",
+        "name": "Epiphany",
+        "messageCount": 188,
+        "percentage": 0.8
+      },
+      {
+        "uid": "u_wb2xfZIbTlIdYoUvYCxLtw",
+        "name": "通信2202 方向",
+        "messageCount": 187,
+        "percentage": 0.79
+      },
+      {
+        "uid": "u_LYtbwMUcIysi839ruFXw3A",
+        "name": "通信2202温金龙",
+        "messageCount": 186,
+        "percentage": 0.79
+      },
+      {
+        "uid": "u_PxblkQnKQb8bjCtDyj28RQ",
+        "name": "种子2301关新雨",
+        "messageCount": 185,
+        "percentage": 0.79
+      },
+      {
+        "uid": "u_amJl0BlcPCC24ltzEBQWTA",
+        "name": "电信2503陆予欢",
+        "messageCount": 178,
+        "percentage": 0.76
+      },
+      {
+        "uid": "u_W4JcQXHCjbr572pkGTFYsg",
+        "name": "22-种子-张峻领",
+        "messageCount": 177,
+        "percentage": 0.75
+      },
+      {
+        "uid": "u_k3CfryRjPFGYW6VWZqMhPQ",
+        "name": "电信2203-吴烈仁",
+        "messageCount": 171,
+        "percentage": 0.73
+      },
+      {
+        "uid": "u_rUUrPR4eqayjckhMLYwj1Q",
+        "name": "通信2302-付泽",
+        "messageCount": 166,
+        "percentage": 0.7
+      },
+      {
+        "uid": "u_hyGbxPAO22BgvzZmPi48HQ",
+        "name": "电磁2202-吴锦东",
+        "messageCount": 166,
+        "percentage": 0.7
+      },
+      {
+        "uid": "u_swXi07PKJNiUEeYPHxGTrA",
+        "name": "电信提高22  王弈博",
+        "messageCount": 157,
+        "percentage": 0.67
+      },
+      {
+        "uid": "u_oiZ3APZmjOkYlrPY30zQDQ",
+        "name": "通信2801-张展宇的小迷妹",
+        "messageCount": 154,
+        "percentage": 0.65
+      },
+      {
+        "uid": "u_pXBj6gMNw1pTwdEBuGgkdQ",
+        "name": "通信2201 张翼",
+        "messageCount": 153,
+        "percentage": 0.65
+      },
+      {
+        "uid": "u_VYF3L6fP3jLERXwGnV2TBQ",
+        "name": "电信2304-龙晓宇",
+        "messageCount": 153,
+        "percentage": 0.65
+      },
+      {
+        "uid": "u_rvwRre2hIb-jlLXaImzh1w",
+        "name": "电磁2201-邓琦",
+        "messageCount": 145,
+        "percentage": 0.62
+      },
+      {
+        "uid": "u_32pcIoBIp2Jx0DY1N4kT4w",
+        "name": "提高2101何其锴",
+        "messageCount": 142,
+        "percentage": 0.6
+      },
+      {
+        "uid": "u_4dq_v8cgyRgocdoNnDGGrQ",
+        "name": "电磁2201刘俊豪",
+        "messageCount": 139,
+        "percentage": 0.59
+      },
+      {
+        "uid": "u_15NJiwQKL1qF9gbpuxbSTw",
+        "name": "电信2301汤婧雅",
+        "messageCount": 136,
+        "percentage": 0.58
+      },
+      {
+        "uid": "u_3E4qRNtYaGdnyynuoyObTw",
+        "name": "电磁2302张耀祖",
+        "messageCount": 136,
+        "percentage": 0.58
+      },
+      {
+        "uid": "u_DY4i0Am0bB49bWPQg6Q1MA",
+        "name": "通信2404吕雨桐",
+        "messageCount": 135,
+        "percentage": 0.57
+      },
+      {
+        "uid": "u_B5te1BL5sO5AijGafTikfA",
+        "name": "创新2402 陈侃侃",
+        "messageCount": 134,
+        "percentage": 0.57
+      },
+      {
+        "uid": "u_GOdeczHAD5dE512wxq-whw",
+        "name": "电信2309",
+        "messageCount": 128,
+        "percentage": 0.54
+      },
+      {
+        "uid": "u_rweFmaWsO2LOInVeUadCpw",
+        "name": "电信2404李振宇",
+        "messageCount": 120,
+        "percentage": 0.51
+      },
+      {
+        "uid": "u_vR-YzyNSNvZTJYLj7s5P2Q",
+        "name": "通信2403-罗强涛",
+        "messageCount": 119,
+        "percentage": 0.51
+      },
+      {
+        "uid": "u_NoaDaR-y4i0auJzPjhi8Xg",
+        "name": "电信2309-朱拓源",
+        "messageCount": 118,
+        "percentage": 0.5
+      },
+      {
+        "uid": "u_mL9ZVmrLyWwu1OvoKQqyxg",
+        "name": "电信2203倪云飞",
+        "messageCount": 118,
+        "percentage": 0.5
+      },
+      {
+        "uid": "u_gUFubXWbS5zzcdpl7IEXdQ",
+        "name": "2403李思成",
+        "messageCount": 116,
+        "percentage": 0.49
+      },
+      {
+        "uid": "u_9--mh7RrGfNuaPqXhw3tyw",
+        "name": "电信2203张溪隽",
+        "messageCount": 115,
+        "percentage": 0.49
+      },
+      {
+        "uid": "u_-EOXP5zHc4M_utnhT-qF7w",
+        "name": "电磁2301曹骏",
+        "messageCount": 114,
+        "percentage": 0.48
+      },
+      {
+        "uid": "u_pPDJ4GTdy5yu1Z_9m-eUpw",
+        "name": "通信2201班吴志鹏",
+        "messageCount": 114,
+        "percentage": 0.48
+      },
+      {
+        "uid": "u_vvpGG0DoWygDCCsBfclW2A",
+        "name": "2210姜远帆",
+        "messageCount": 111,
+        "percentage": 0.47
+      },
+      {
+        "uid": "u_7GlQNtonVCPfIxaQSWR-wA",
+        "name": "૮ ⑉ ᗜ ⑉ ა",
+        "messageCount": 100,
+        "percentage": 0.42
+      },
+      {
+        "uid": "u_VdsILoWI0KwTt8xoWU5TCQ",
+        "name": "电信2402凌然超",
+        "messageCount": 99,
+        "percentage": 0.42
+      },
+      {
+        "uid": "u_B-z8iRjwtn9FHe8HFcoCng",
+        "name": "通信2104-王国琪",
+        "messageCount": 93,
+        "percentage": 0.39
+      },
+      {
+        "uid": "u_6CoaMidmt3XoWW5C4Qbt1w",
+        "name": "通信2405杨淞媛",
+        "messageCount": 92,
+        "percentage": 0.39
+      },
+      {
+        "uid": "u_fchfk0QXBxeDbRU7gVyvqw",
+        "name": "通信2404张恒明",
+        "messageCount": 87,
+        "percentage": 0.37
+      },
+      {
+        "uid": "u_W-v0Juu_RaBdzE2Sa-vFfA",
+        "name": "22-提高-王翎羽",
+        "messageCount": 85,
+        "percentage": 0.36
+      },
+      {
+        "uid": "u_pz3isdUAXOPbEcxydyFVrQ",
+        "name": "24-通信-邓刘一淳",
+        "messageCount": 85,
+        "percentage": 0.36
+      },
+      {
+        "uid": "u_23e4GBmUHx5nBfh25J-Vyg",
+        "name": "通信2401刘欣澜",
+        "messageCount": 84,
+        "percentage": 0.36
+      },
+      {
+        "uid": "u_hL7dwASnZfH2nP7vMFzPFw",
+        "name": "电信2204曾涛",
+        "messageCount": 82,
+        "percentage": 0.35
+      },
+      {
+        "uid": "u_ey3G1LOHhvCT0Y7NyF-yZw",
+        "name": "电信2205-曾文强",
+        "messageCount": 77,
+        "percentage": 0.33
+      },
+      {
+        "uid": "u_gIE50zL3XD7iBWDYYUvt7w",
+        "name": "通信2204田桉源",
+        "messageCount": 77,
+        "percentage": 0.33
+      },
+      {
+        "uid": "u_aYQOwVm2IpunJn8vd4qNdQ",
+        "name": "智能通信2077 苏宇航",
+        "messageCount": 76,
+        "percentage": 0.32
+      },
+      {
+        "uid": "u_TAcj9m3-6eAfdZvaklWj5A",
+        "name": "种子2201王浩楠",
+        "messageCount": 75,
+        "percentage": 0.32
+      },
+      {
+        "uid": "u_3vgo9COWfGCBp2rHog2e5g",
+        "name": "通信2201—胡津睿",
+        "messageCount": 75,
+        "percentage": 0.32
+      },
+      {
+        "uid": "u_aLcHhBx4uL2eLHlVp74PBw",
+        "name": "通信2302-欧阳康剑",
+        "messageCount": 73,
+        "percentage": 0.31
+      },
+      {
+        "uid": "u_hSIAaUt4cQOh8L9_lgs4Mw",
+        "name": "信卓2201—姚星辰",
+        "messageCount": 73,
+        "percentage": 0.31
+      },
+      {
+        "uid": "u_9kvG1zMsjyfwp38ne8RI7g",
+        "name": "电信2401张淼鑫",
+        "messageCount": 70,
+        "percentage": 0.3
+      },
+      {
+        "uid": "u_Ukf1L5p5zBbo5RWTuzMdkw",
+        "name": "电信2101-罗信",
+        "messageCount": 69,
+        "percentage": 0.29
+      },
+      {
+        "uid": "u_hBepw5ENE7oVn2uzyGbfog",
+        "name": "通信2203-刘昱",
+        "messageCount": 68,
+        "percentage": 0.29
+      },
+      {
+        "uid": "u_CxjExhRpK8aCgMD0-MwSJA",
+        "name": "23-通信-周冠宇",
+        "messageCount": 68,
+        "percentage": 0.29
+      },
+      {
+        "uid": "u_QZXnkzCJRFgQoVcIMxAFuQ",
+        "name": "通信2304顾凯",
+        "messageCount": 68,
+        "percentage": 0.29
+      },
+      {
+        "uid": "u_Bmw9pSBDj0tVZn_RITOgWg",
+        "name": "zz23001吴浩闻",
+        "messageCount": 67,
+        "percentage": 0.28
+      },
+      {
+        "uid": "u_EIBD4D5xUiGMZoxym5XCOw",
+        "name": "通信2203-庞淇元",
+        "messageCount": 64,
+        "percentage": 0.27
+      },
+      {
+        "uid": "u_Pp6Y-BMMdNzbbPXZdcIgJw",
+        "name": "电信2302刘权",
+        "messageCount": 63,
+        "percentage": 0.27
+      },
+      {
+        "uid": "u_D1UXK6rRlE977Ce7BuNu-w",
+        "name": "通信2201班彭佳炉",
+        "messageCount": 63,
+        "percentage": 0.27
+      },
+      {
+        "uid": "u_LoZ_5M5m3RWXH4lvkMk-ug",
+        "name": "电信2205罗得文",
+        "messageCount": 61,
+        "percentage": 0.26
+      },
+      {
+        "uid": "u_DuvZzBnlq-Z2kkuxX8jb3g",
+        "name": "电磁2102汤子轩",
+        "messageCount": 60,
+        "percentage": 0.25
+      },
+      {
+        "uid": "u_y3__RAnH5wmoFfxn-BsPhA",
+        "name": "通信2203-陈友钧",
+        "messageCount": 60,
+        "percentage": 0.25
+      },
+      {
+        "uid": "u_bntmOcCUGQJk14wRv87GTQ",
+        "name": "2021电<磁>1班smz",
+        "messageCount": 59,
+        "percentage": 0.25
+      },
+      {
+        "uid": "u_AyOH9AheLeQLcq9pZPaTPg",
+        "name": "提高2201李升臻",
+        "messageCount": 58,
+        "percentage": 0.25
+      },
+      {
+        "uid": "u_1oAK-vdZWXTrlXqJe2MbMQ",
+        "name": "通信2301-吴启鑫",
+        "messageCount": 58,
+        "percentage": 0.25
+      },
+      {
+        "uid": "u_J3Z1F3rihl2n5Dn4eC4bOQ",
+        "name": "信卓2301郑安琪",
+        "messageCount": 56,
+        "percentage": 0.24
+      },
+      {
+        "uid": "u_5m9-wL3DHl4TiLTHkqEJEw",
+        "name": "电磁2202刘逸飞",
+        "messageCount": 56,
+        "percentage": 0.24
+      },
+      {
+        "uid": "u_LdRnEOnqiJ23Ztk9EYa4bg",
+        "name": "电信2409张梦媛",
+        "messageCount": 56,
+        "percentage": 0.24
+      },
+      {
+        "uid": "u_hn5TaVq1q-xutxlbCejRXA",
+        "name": "通信2202刘至玮",
+        "messageCount": 55,
+        "percentage": 0.23
+      },
+      {
+        "uid": "u_MvWpyENR7xP3GFYjbaldeg",
+        "name": "电信2510张展宇的小学弟",
+        "messageCount": 55,
+        "percentage": 0.23
+      },
+      {
+        "uid": "u_yaKzAhXkoHq4QBsNEidJlw",
+        "name": "通信2303-李瀚霖",
+        "messageCount": 54,
+        "percentage": 0.23
+      },
+      {
+        "uid": "u_AuxNJ6MOtvBesDHAVLtctg",
+        "name": "电信2311路文博",
+        "messageCount": 53,
+        "percentage": 0.22
+      },
+      {
+        "uid": "u_TuHcWUMqc5UE6SKpUMJX8Q",
+        "name": "通信2201-金邦其",
+        "messageCount": 53,
+        "percentage": 0.22
+      },
+      {
+        "uid": "u_LGynZm6aofvxVVp_KZZinw",
+        "name": "贾沫晗",
+        "messageCount": 53,
+        "percentage": 0.22
+      },
+      {
+        "uid": "u_6bqZgjzxQKHj3T43tieRjg",
+        "name": "通信2304刘安镇",
+        "messageCount": 52,
+        "percentage": 0.22
+      },
+      {
+        "uid": "u_NrGSXO5wmHsoqGHXNEVSCA",
+        "name": "通信2304张一飞",
+        "messageCount": 52,
+        "percentage": 0.22
+      },
+      {
+        "uid": "u_wKro2w2p_dERAeXckUskqg",
+        "name": "电信2402张展宇",
+        "messageCount": 51,
+        "percentage": 0.22
+      },
+      {
+        "uid": "u_nkRWIyEJvkmVxVvTSNy4zw",
+        "name": "信提2201–杨家豪",
+        "messageCount": 51,
+        "percentage": 0.22
+      },
+      {
+        "uid": "u_x6Xde9kzGhBjXFyNqYnrzw",
+        "name": "通信2204-高涛",
+        "messageCount": 50,
+        "percentage": 0.21
+      },
+      {
+        "uid": "u_PQfmZQJpwnlPFeHbGbRS0Q",
+        "name": "电磁2301郭宁昂",
+        "messageCount": 49,
+        "percentage": 0.21
+      },
+      {
+        "uid": "u_miFvtmL5U1iZByCmKSNEFw",
+        "name": "电信2201-齐子毫",
+        "messageCount": 49,
+        "percentage": 0.21
+      },
+      {
+        "uid": "u_5f-GF4QJ-LBLRgwPilOvZw",
+        "name": "电信2401郭晨茜",
+        "messageCount": 49,
+        "percentage": 0.21
+      },
+      {
+        "uid": "u_ndSGv62jskR99wnQfrtAjw",
+        "name": "电信2202班段一飞",
+        "messageCount": 49,
+        "percentage": 0.21
+      },
+      {
+        "uid": "u_cKKY9_oysRKqSVPNpA8q_w",
+        "name": "种子2101-罗畅",
+        "messageCount": 48,
+        "percentage": 0.2
+      },
+      {
+        "uid": "u_rKx1rqRFjTPAgCzxp6NqhQ",
+        "name": "电信23麦",
+        "messageCount": 48,
+        "percentage": 0.2
+      },
+      {
+        "uid": "u_Zr-q0gItC9onD-vmtkN2_A",
+        "name": "电信2303安全兴",
+        "messageCount": 48,
+        "percentage": 0.2
+      },
+      {
+        "uid": "u_6jhw2KC_WUK5AVzgFZTSkQ",
+        "name": "观星",
+        "messageCount": 46,
+        "percentage": 0.2
+      },
+      {
+        "uid": "u_UUR2UTPgf7TpR_mio-8kEA",
+        "name": "电信创新2402-饶嘉",
+        "messageCount": 46,
+        "percentage": 0.2
+      },
+      {
+        "uid": "u_o_wddxx5Tnw4Ek82-ZTI1g",
+        "name": "24-电信-金子昂",
+        "messageCount": 45,
+        "percentage": 0.19
+      },
+      {
+        "uid": "u_IrtU2YViyzRhGnN7NJFHlg",
+        "name": "电信2205杨胜策",
+        "messageCount": 45,
+        "percentage": 0.19
+      },
+      {
+        "uid": "u_orWrrO70zJ_7PiSmOtslXg",
+        "name": "意灵·繁星梦",
+        "messageCount": 45,
+        "percentage": 0.19
+      },
+      {
+        "uid": "u_O8jpIlJItp9T9mpva0ezoQ",
+        "name": "通信2201骆顺",
+        "messageCount": 44,
+        "percentage": 0.19
+      },
+      {
+        "uid": "u_V1Ycy-aaZQK8RT1dSdQa7A",
+        "name": "电信 2403 林感",
+        "messageCount": 44,
+        "percentage": 0.19
+      },
+      {
+        "uid": "u_VUU2IF302_sUtx0Zg9JUEg",
+        "name": "电信2204-阮振宇",
+        "messageCount": 44,
+        "percentage": 0.19
+      },
+      {
+        "uid": "u_Dy7-n3ENB0JQpKNneGHFCA",
+        "name": "电信2403李宜朗",
+        "messageCount": 43,
+        "percentage": 0.18
+      },
+      {
+        "uid": "u_WA0lH7WdxurwPQ2GtIJ0Wg",
+        "name": "电信2204华戴礼",
+        "messageCount": 42,
+        "percentage": 0.18
+      },
+      {
+        "uid": "u_3d7fWS9KuVYLl3LNMQ333g",
+        "name": "种子2101张圣权",
+        "messageCount": 42,
+        "percentage": 0.18
+      },
+      {
+        "uid": "u_TEjfIkLhYxykrYqmyFl9tw",
+        "name": "23信卓顾良骁",
+        "messageCount": 40,
+        "percentage": 0.17
+      },
+      {
+        "uid": "u_OG6BzXJZe9Jz3ELuPmJPAw",
+        "name": "通信2303-李明超",
+        "messageCount": 40,
+        "percentage": 0.17
+      },
+      {
+        "uid": "u_ZWoCgkFsLLneLA_KvfJgyg",
+        "name": "电磁2202郭烈材",
+        "messageCount": 40,
+        "percentage": 0.17
+      },
+      {
+        "uid": "u_ulch_LC1mRZDhzMW6YNdGg",
+        "name": "电信2048高立",
+        "messageCount": 39,
+        "percentage": 0.17
+      },
+      {
+        "uid": "u_bMMkIy0TCdgIHGl7-y0HaQ",
+        "name": "电信2001张展宇",
+        "messageCount": 38,
+        "percentage": 0.16
+      },
+      {
+        "uid": "u_zF_uJMEylOSNweS6QmVsGg",
+        "name": "电信2203-张子俊",
+        "messageCount": 38,
+        "percentage": 0.16
+      },
+      {
+        "uid": "u_PWQxDPunP7Yi5EsO_whZ-g",
+        "name": "通信2204-牟斌耀",
+        "messageCount": 38,
+        "percentage": 0.16
+      },
+      {
+        "uid": "u_-e22FrUtxtpAkC7ltcwbEA",
+        "name": "yrz",
+        "messageCount": 37,
+        "percentage": 0.16
+      },
+      {
+        "uid": "u_4-RYWy66HShxhNoaSOe1xw",
+        "name": "信卓2301徐心亿",
+        "messageCount": 37,
+        "percentage": 0.16
+      },
+      {
+        "uid": "u_atxH5FmwnZddkqu4xoE3UQ",
+        "name": "茶茶子⁧ ⁧⁧~喵⁧",
+        "messageCount": 36,
+        "percentage": 0.15
+      },
+      {
+        "uid": "u_8oqra1_Ci3SlWA5-bi_nJQ",
+        "name": "lyklbw",
+        "messageCount": 36,
+        "percentage": 0.15
+      },
+      {
+        "uid": "u_0kCobY8K1WYz_z5RdNvMZA",
+        "name": "电磁2301-张轩",
+        "messageCount": 35,
+        "percentage": 0.15
+      },
+      {
+        "uid": "u_4nJsKEVF6AeyW7SZRKGrcw",
+        "name": "通信2202-王艺澄",
+        "messageCount": 35,
+        "percentage": 0.15
+      },
+      {
+        "uid": "u_xxZML95UhgayFNrQ6fBunw",
+        "name": "电信2402张淇榕",
+        "messageCount": 34,
+        "percentage": 0.14
+      },
+      {
+        "uid": "u_qhtaBQBX0uBRqZMPEQpYtw",
+        "name": "信卓2301-廖兴易",
+        "messageCount": 34,
+        "percentage": 0.14
+      },
+      {
+        "uid": "u_xmgIbHv339WbN58Ekxz2sw",
+        "name": "通信2202张涌泉",
+        "messageCount": 34,
+        "percentage": 0.14
+      },
+      {
+        "uid": "u_B15lZqe-Y4ej4w74UzVmKw",
+        "name": "信卓2101郭佳",
+        "messageCount": 34,
+        "percentage": 0.14
+      },
+      {
+        "uid": "u_EJPdmnfxSlEyEvOJmJkKyg",
+        "name": "通信2404-韩立业",
+        "messageCount": 33,
+        "percentage": 0.14
+      },
+      {
+        "uid": "u_ETj6ktXHeHxBo6n2fcIyJg",
+        "name": "2308-郭睿",
+        "messageCount": 32,
+        "percentage": 0.14
+      },
+      {
+        "uid": "u_gHltKKlq-7gNMzhVkSONkA",
+        "name": "电信2304陆仕杰",
+        "messageCount": 32,
+        "percentage": 0.14
+      },
+      {
+        "uid": "u_5SUS_mGSKsDPYg6kqgrU_A",
+        "name": "电信2404班曾伟新",
+        "messageCount": 32,
+        "percentage": 0.14
+      },
+      {
+        "uid": "u_i1T37WiiVp5RcO-Mf8KfXQ",
+        "name": "创新2402黄思怡",
+        "messageCount": 32,
+        "percentage": 0.14
+      },
+      {
+        "uid": "u_rQlinUGmTPoMeDDp_sR9Xw",
+        "name": "电信2407钱锐",
+        "messageCount": 31,
+        "percentage": 0.13
+      },
+      {
+        "uid": "u_QqxyOHCHvE2WJr5NirllWw",
+        "name": "通信2405王运辉",
+        "messageCount": 31,
+        "percentage": 0.13
+      },
+      {
+        "uid": "u_rtAPIUj3FuUVDDUTMjdvfw",
+        "name": "电信2201韩子鑫",
+        "messageCount": 31,
+        "percentage": 0.13
+      },
+      {
+        "uid": "u_dQoz6dbiyewKj2ofc-wvfw",
+        "name": "通信2204-唐杨凯",
+        "messageCount": 31,
+        "percentage": 0.13
+      },
+      {
+        "uid": "u_DO0djkeNjsaCtAAMvlrxtw",
+        "name": "电信2401彭嘉亮",
+        "messageCount": 31,
+        "percentage": 0.13
+      },
+      {
+        "uid": "u_MAF4blBZAfWCL6ZwIqnP5g",
+        "name": "电磁2102-杨文博",
+        "messageCount": 31,
+        "percentage": 0.13
+      },
+      {
+        "uid": "u_dqcW1tn1PQ1C20ptKeoOpA",
+        "name": "2406邵灵瑞",
+        "messageCount": 31,
+        "percentage": 0.13
+      },
+      {
+        "uid": "u_l9ZMXdiHTv85_8fiQSeJKw",
+        "name": "信提2301-李显",
+        "messageCount": 31,
+        "percentage": 0.13
+      },
+      {
+        "uid": "u_AYD1u9U1cdk6jGgE00v4lg",
+        "name": "电磁2302-程百业",
+        "messageCount": 30,
+        "percentage": 0.13
+      },
+      {
+        "uid": "u_HViMBQFjZ5nCB6ZcCj-lJQ",
+        "name": "电信2404冯其时",
+        "messageCount": 30,
+        "percentage": 0.13
+      },
+      {
+        "uid": "u_Mc87slyyLuoSff3ZFIpsnQ",
+        "name": "电磁2002王诗怡",
+        "messageCount": 30,
+        "percentage": 0.13
+      },
+      {
+        "uid": "u_6xXI4Xusn1IpQUivwO2KNQ",
+        "name": "电信2099 赵荣博",
+        "messageCount": 29,
+        "percentage": 0.12
+      },
+      {
+        "uid": "u_7Q9sSBnqV19JP9pnO8XcCg",
+        "name": "电信2305-邹殿元",
+        "messageCount": 29,
+        "percentage": 0.12
+      },
+      {
+        "uid": "u_DxW8kev4H0USKDJ6ijjuLg",
+        "name": "通信2103-万一霖",
+        "messageCount": 29,
+        "percentage": 0.12
+      },
+      {
+        "uid": "u_0UCEa9bFXZ8FRgP3TR3cGw",
+        "name": "电信2600班李锦阳",
+        "messageCount": 29,
+        "percentage": 0.12
+      },
+      {
+        "uid": "u_Xs4Y3Ge69apMl2C8DnIaVw",
+        "name": "白白白白白白白白白白",
+        "messageCount": 29,
+        "percentage": 0.12
+      },
+      {
+        "uid": "u_QX2ik-HEh0aBrZMYcrJF0g",
+        "name": "通信2203-李锋",
+        "messageCount": 29,
+        "percentage": 0.12
+      },
+      {
+        "uid": "u_u3tnbi0PgSsbaodyVb1oRw",
+        "name": "通信工程2304张泰尧",
+        "messageCount": 29,
+        "percentage": 0.12
+      },
+      {
+        "uid": "u_aajDmOL19bGA_6Uc23373Q",
+        "name": "蔡普成",
+        "messageCount": 29,
+        "percentage": 0.12
+      },
+      {
+        "uid": "u_nIIMmHop3iDWfLSxz2-khw",
+        "name": "2204颜其麦",
+        "messageCount": 29,
+        "percentage": 0.12
+      },
+      {
+        "uid": "u_O1WX2WJw54e7oAPcHkY0LQ",
+        "name": "电信2403吴予乐",
+        "messageCount": 29,
+        "percentage": 0.12
+      },
+      {
+        "uid": "u_HFVohAOjjJnIRsEQnlHsLQ",
+        "name": "电信2005-张智博",
+        "messageCount": 28,
+        "percentage": 0.12
+      },
+      {
+        "uid": "u_OiXWnHFlekIsBs0bRcpJJg",
+        "name": "电磁2001-蒋嘉豪",
+        "messageCount": 28,
+        "percentage": 0.12
+      },
+      {
+        "uid": "u_YwuLL_2rETk-EwR2rGraWg",
+        "name": "电信2301-徐柯帅",
+        "messageCount": 28,
+        "percentage": 0.12
+      },
+      {
+        "uid": "u_458KyIsqTnAZkeROAzMf3w",
+        "name": "电信2302刘逢琦",
+        "messageCount": 28,
+        "percentage": 0.12
+      },
+      {
+        "uid": "u_8vw_yCYNJkhYrb0PigDG9A",
+        "name": "通信2201易诗",
+        "messageCount": 28,
+        "percentage": 0.12
+      },
+      {
+        "uid": "u_j95o2Q63CtRHFlTIxx_rIQ",
+        "name": "电信创新2402雷欣瑶",
+        "messageCount": 28,
+        "percentage": 0.12
+      },
+      {
+        "uid": "u_BuZ3QOZHKb3hiVc185iU4A",
+        "name": "信卓2101罗鑫",
+        "messageCount": 28,
+        "percentage": 0.12
+      },
+      {
+        "uid": "u_s8zskHiOwdGpmP5kR3KTuA",
+        "name": "电信2407魏金涛",
+        "messageCount": 27,
+        "percentage": 0.11
+      },
+      {
+        "uid": "u_edJkA8RR-R9akMW-Hdx5DA",
+        "name": "电信2302潘骋",
+        "messageCount": 27,
+        "percentage": 0.11
+      },
+      {
+        "uid": "u_1s-V5nEhkmaXYVzqr3neLw",
+        "name": "电信2203-覃思钒",
+        "messageCount": 27,
+        "percentage": 0.11
+      },
+      {
+        "uid": "u_u0SaGOljrvPl3ypiI4Tyhg",
+        "name": "电信2304-程广林",
+        "messageCount": 27,
+        "percentage": 0.11
+      },
+      {
+        "uid": "u_TsPXhDHYtA59aaDthOh2Bg",
+        "name": "通信2302-成铖",
+        "messageCount": 27,
+        "percentage": 0.11
+      },
+      {
+        "uid": "u_c8cZ62UM2gNvj1FW3TWYHA",
+        "name": "电信2401 刘北辰",
+        "messageCount": 26,
+        "percentage": 0.11
+      },
+      {
+        "uid": "u_TZlutx95AF8vwpl0KMYnkA",
+        "name": "电信2303-何栩盈",
+        "messageCount": 26,
+        "percentage": 0.11
+      },
+      {
+        "uid": "u_5cOHaq8d1PyKut7ugRz8iw",
+        "name": "22-通信2201-杨梦欣",
+        "messageCount": 26,
+        "percentage": 0.11
+      },
+      {
+        "uid": "u_sQ2AtpJ9ytYXatgdKdbhAw",
+        "name": "2304班-石芯萌",
+        "messageCount": 26,
+        "percentage": 0.11
+      },
+      {
+        "uid": "u_PP_24eq4xc5l2VlD4Ap50Q",
+        "name": "通信2303刘雨晴",
+        "messageCount": 26,
+        "percentage": 0.11
+      },
+      {
+        "uid": "u_17N0cTj9-lxv9RD0NVUYRg",
+        "name": "通信2302滕秀芳",
+        "messageCount": 25,
+        "percentage": 0.11
+      },
+      {
+        "uid": "u_FI2NQ5OFBzQBBrirY_rd2g",
+        "name": "通信2202-谢福持",
+        "messageCount": 25,
+        "percentage": 0.11
+      },
+      {
+        "uid": "u_EZ2u7Cee3sWPt5FNavYiSg",
+        "name": "电信2402林锦康",
+        "messageCount": 25,
+        "percentage": 0.11
+      },
+      {
+        "uid": "u_G6Zxo0NOR3IWFlIRKUrvXA",
+        "name": "电信2205张晶",
+        "messageCount": 25,
+        "percentage": 0.11
+      },
+      {
+        "uid": "u_cdclflQqBjUSZO0efrv9RA",
+        "name": "电信2407刘思宇",
+        "messageCount": 25,
+        "percentage": 0.11
+      },
+      {
+        "uid": "u_D7gsnaYVw_SfgUAy9UDQHg",
+        "name": "電次2201-杨航",
+        "messageCount": 24,
+        "percentage": 0.1
+      },
+      {
+        "uid": "u_E4iBwKxiskuWmBCU5MA_tw",
+        "name": "通信2301 徐阔",
+        "messageCount": 24,
+        "percentage": 0.1
+      },
+      {
+        "uid": "u_ty99t32rG9KBfi6aHDObrg",
+        "name": "2404尚子歆",
+        "messageCount": 24,
+        "percentage": 0.1
+      },
+      {
+        "uid": "u_RqdskG3wDR46xUBGepd8LA",
+        "name": "电信2405程艾影",
+        "messageCount": 24,
+        "percentage": 0.1
+      },
+      {
+        "uid": "u_PrIE8PxU6ji9l_wpyZ8njA",
+        "name": "电信2105-刘思绪",
+        "messageCount": 24,
+        "percentage": 0.1
+      },
+      {
+        "uid": "u_ycNzvQQHLUZZ_XYDF9_pog",
+        "name": "通信2102-吴雨垚",
+        "messageCount": 24,
+        "percentage": 0.1
+      },
+      {
+        "uid": "u_1jVeLi2my01RGDBZItnRVQ",
+        "name": "通信2202吴浩然",
+        "messageCount": 24,
+        "percentage": 0.1
+      },
+      {
+        "uid": "u_k6A7-FZwQkX9Unfft5J5Fw",
+        "name": "电磁2402张思锐",
+        "messageCount": 23,
+        "percentage": 0.1
+      },
+      {
+        "uid": "u_JQxmYIob0CxSBVm9fIq2OA",
+        "name": "电信2103 施祥涛",
+        "messageCount": 23,
+        "percentage": 0.1
+      },
+      {
+        "uid": "u_hg9LHzthC0k-ieyY-GbwlQ",
+        "name": "通信2202-尚容斌",
+        "messageCount": 23,
+        "percentage": 0.1
+      },
+      {
+        "uid": "u_AeIVbmlfeC3YESERPjOdXw",
+        "name": "电信2204张煜",
+        "messageCount": 23,
+        "percentage": 0.1
+      },
+      {
+        "uid": "u_LJPAByngaWE3bbmwLAzKeg",
+        "name": "电信2201－周凤娇",
+        "messageCount": 23,
+        "percentage": 0.1
+      },
+      {
+        "uid": "u_L2GyjHCfFhnXlzSVPtM6Cw",
+        "name": "通信2104 罗宇",
+        "messageCount": 23,
+        "percentage": 0.1
+      },
+      {
+        "uid": "u_7p7vujKY90chLyWFlpfbzg",
+        "name": "电信2104-刁彦卓",
+        "messageCount": 23,
+        "percentage": 0.1
+      },
+      {
+        "uid": "u_FOxatdSB7wLVF-i4g83bRA",
+        "name": "24电信创新二班崔曼妮",
+        "messageCount": 23,
+        "percentage": 0.1
+      },
+      {
+        "uid": "u_K1vHRWPYrNkaw8vl_Ci7Ag",
+        "name": "电信2101-李志伟",
+        "messageCount": 22,
+        "percentage": 0.09
+      },
+      {
+        "uid": "u_PTVkI6YSPfBXszRdqeRwow",
+        "name": "电信2403胡一博",
+        "messageCount": 22,
+        "percentage": 0.09
+      },
+      {
+        "uid": "u_ja3VKanFjpxitfjvpowfNA",
+        "name": "跑去轮渡上看国足",
+        "messageCount": 22,
+        "percentage": 0.09
+      },
+      {
+        "uid": "u_hPBAQAwYRIJJtkQsY1ub4A",
+        "name": "电信2402 陈俊良",
+        "messageCount": 22,
+        "percentage": 0.09
+      },
+      {
+        "uid": "u_4xv-sygRmLg2Tp6dLFD5qA",
+        "name": "电信2409段林鑫",
+        "messageCount": 22,
+        "percentage": 0.09
+      },
+      {
+        "uid": "u_NA1ozkJQTI2Rcr55dJyi4A",
+        "name": "电磁2402相昊泽",
+        "messageCount": 22,
+        "percentage": 0.09
+      },
+      {
+        "uid": "u_Yg4D_vOQRWT8SpgSXD5KLg",
+        "name": "方块",
+        "messageCount": 22,
+        "percentage": 0.09
+      },
+      {
+        "uid": "u_2LN5Wx2YlsU7lyx-uK3gkA",
+        "name": "电信2302 谢东晓",
+        "messageCount": 21,
+        "percentage": 0.09
+      },
+      {
+        "uid": "u_S2pZ7efUxbWw13kxYYFIyg",
+        "name": "22电信四班任一诺",
+        "messageCount": 21,
+        "percentage": 0.09
+      },
+      {
+        "uid": "u_t_tfdx-VilapoKV3-uaSmA",
+        "name": "提高2301—冯荣琛",
+        "messageCount": 21,
+        "percentage": 0.09
+      },
+      {
+        "uid": "u_3PlSkMxjC732qqQ_lI4a5A",
+        "name": "通信2203金凌云",
+        "messageCount": 21,
+        "percentage": 0.09
+      },
+      {
+        "uid": "u_wTObc3r6vxfLkc5j6ur58A",
+        "name": "通信2301  毛清颐",
+        "messageCount": 21,
+        "percentage": 0.09
+      },
+      {
+        "uid": "u_PwvwbzrGjLdNlYZW5m7VjQ",
+        "name": "通信2302 王子翀",
+        "messageCount": 21,
+        "percentage": 0.09
+      },
+      {
+        "uid": "u_vfeu_wIUKHNTCklGpXoGhg",
+        "name": "通信2203 凃至诚",
+        "messageCount": 20,
+        "percentage": 0.08
+      },
+      {
+        "uid": "u_iI8i9DC0hsOKJnfDocnlQg",
+        "name": "电信2307白洛琦",
+        "messageCount": 20,
+        "percentage": 0.08
+      },
+      {
+        "uid": "u_H8RlOrV9NrFYHP21W9YLwQ",
+        "name": "电信2301蔡知翰",
+        "messageCount": 20,
+        "percentage": 0.08
+      },
+      {
+        "uid": "u_lWgW80wXuUOwN6AM09xIIw",
+        "name": "电信2404狄昊",
+        "messageCount": 20,
+        "percentage": 0.08
+      },
+      {
+        "uid": "u_ar7XZiVU4GAnbP3xXmrQhQ",
+        "name": "2201信卓陈宇",
+        "messageCount": 20,
+        "percentage": 0.08
+      },
+      {
+        "uid": "u_Y4HI_PxANZ9m1X4ZlwnwhA",
+        "name": "23-通信-景童",
+        "messageCount": 20,
+        "percentage": 0.08
+      },
+      {
+        "uid": "u_tMhYutQ12a0BsYWQFqdiIg",
+        "name": "通信2203文竣逸",
+        "messageCount": 20,
+        "percentage": 0.08
+      },
+      {
+        "uid": "u_fp1rdynfvE_WXmDO6Ev9NA",
+        "name": "通信2102张硕",
+        "messageCount": 20,
+        "percentage": 0.08
+      },
+      {
+        "uid": "u_8ConNqwNgO2p6MWy1AUT0w",
+        "name": "2405田鸿雅",
+        "messageCount": 20,
+        "percentage": 0.08
+      },
+      {
+        "uid": "u_rCKvb17_XNpXoYxULS-UXQ",
+        "name": "@",
+        "messageCount": 20,
+        "percentage": 0.08
+      },
+      {
+        "uid": "u_Sf4fsjPf0XuYIRUeALMlJw",
+        "name": "电信2104-廖震",
+        "messageCount": 20,
+        "percentage": 0.08
+      },
+      {
+        "uid": "u_dWV2yvswYjjTC1Y9VgEDKA",
+        "name": "电信2404徐伟杰",
+        "messageCount": 19,
+        "percentage": 0.08
+      },
+      {
+        "uid": "u_WgJ05w9W2xv7cyguzfA7Pw",
+        "name": "通电2404-刘力扬",
+        "messageCount": 19,
+        "percentage": 0.08
+      },
+      {
+        "uid": "u_nDcprNTyIximSNFkBrszZA",
+        "name": "提高2201黄歆月",
+        "messageCount": 19,
+        "percentage": 0.08
+      },
+      {
+        "uid": "u_nkUNoRPlRMdBBdTaSkf21Q",
+        "name": "2403龚振岚",
+        "messageCount": 19,
+        "percentage": 0.08
+      },
+      {
+        "uid": "u_-iBgJEu5MCGgZbFpZdKE7g",
+        "name": "通信2203叶雨航",
+        "messageCount": 19,
+        "percentage": 0.08
+      },
+      {
+        "uid": "u_ihGaavtltETNkNMvil8dqg",
+        "name": "电信2202 郭珺碧",
+        "messageCount": 19,
+        "percentage": 0.08
+      },
+      {
+        "uid": "u_6kH2XjJhYMcnF9HhkpoTTA",
+        "name": "电信2408肖亦琳",
+        "messageCount": 18,
+        "percentage": 0.08
+      },
+      {
+        "uid": "u_HygLjDTwCRy4EMduiWVY1A",
+        "name": "电信提高2401-刘欣",
+        "messageCount": 18,
+        "percentage": 0.08
+      },
+      {
+        "uid": "u_OeqwXNy5kMJHfJwo-mfqSA",
+        "name": "信卓2024向宇涵",
+        "messageCount": 18,
+        "percentage": 0.08
+      },
+      {
+        "uid": "u_a0We4ysoDZ80kyF2bRRegw",
+        "name": "电信2408易芳圆",
+        "messageCount": 18,
+        "percentage": 0.08
+      },
+      {
+        "uid": "u_gutsynImWpg2_6meajMMKg",
+        "name": "电信2203-郑昊昀",
+        "messageCount": 18,
+        "percentage": 0.08
+      },
+      {
+        "uid": "u_wK7A6cGa8mBBmmOsnk_mfA",
+        "name": "信卓2201-王玺之",
+        "messageCount": 18,
+        "percentage": 0.08
+      },
+      {
+        "uid": "u_KxCg48PcRLxTYxJ_9rgxmA",
+        "name": "电信2402许嘉祚",
+        "messageCount": 18,
+        "percentage": 0.08
+      },
+      {
+        "uid": "u_RsRt9S4E2eJi1UzYTfigEA",
+        "name": "电信 2304 吴可非",
+        "messageCount": 18,
+        "percentage": 0.08
+      },
+      {
+        "uid": "u_MGiitv1iNJmUdDpdT0uumA",
+        "name": "电信2311-张佳琦",
+        "messageCount": 17,
+        "percentage": 0.07
+      },
+      {
+        "uid": "u_KxLIkn0a6RE-PIEviltUTQ",
+        "name": "23级-通信-章基望",
+        "messageCount": 17,
+        "percentage": 0.07
+      },
+      {
+        "uid": "u_O7xBPgYvN7EHdme1cQL4rw",
+        "name": "电信提高2201-罗皓严",
+        "messageCount": 17,
+        "percentage": 0.07
+      },
+      {
+        "uid": "u_FVHWAyM2GcyqC7lwll8DRA",
+        "name": "信卓2201刘春东",
+        "messageCount": 17,
+        "percentage": 0.07
+      },
+      {
+        "uid": "u_KGod-B2FzztM7tyZpVVHeQ",
+        "name": "电信2103-范志杰",
+        "messageCount": 17,
+        "percentage": 0.07
+      },
+      {
+        "uid": "u_5z3q7hESoMdkWkPam2LkNA",
+        "name": "电信2302 吴思逸",
+        "messageCount": 16,
+        "percentage": 0.07
+      },
+      {
+        "uid": "u_wJQ5jtfmQntcyj6IGBpA5g",
+        "name": "通信2301鄢萌",
+        "messageCount": 16,
+        "percentage": 0.07
+      },
+      {
+        "uid": "u_5meQRC2v0uXlD-_F5KKYuQ",
+        "name": "电信2406王鹏宇",
+        "messageCount": 16,
+        "percentage": 0.07
+      },
+      {
+        "uid": "u_b2nEear7v6X3fhvvXTvl6g",
+        "name": "电信2304-莫师",
+        "messageCount": 16,
+        "percentage": 0.07
+      },
+      {
+        "uid": "u_AKhRhp5AWD1HDwXcb7HdWg",
+        "name": "22-通信2201—杨晨雨",
+        "messageCount": 16,
+        "percentage": 0.07
+      },
+      {
+        "uid": "u_C-plNyJKFCdsVegG6yDG5g",
+        "name": "提高2301班 朱晨宇",
+        "messageCount": 16,
+        "percentage": 0.07
+      },
+      {
+        "uid": "u_bVDung_ijdAG-plMNbwxVw",
+        "name": "提高2301李灵祯",
+        "messageCount": 16,
+        "percentage": 0.07
+      },
+      {
+        "uid": "u_fhOjB059C30A-D6Ii6-NqA",
+        "name": "提高2201-金鹏",
+        "messageCount": 16,
+        "percentage": 0.07
+      },
+      {
+        "uid": "u_3eNsZ97Q76PytKUFwtlGBw",
+        "name": "通信2201-王忆雪",
+        "messageCount": 16,
+        "percentage": 0.07
+      },
+      {
+        "uid": "u_HJui-PTfsBCzgqxNDd-d1g",
+        "name": "通信2104-郭康成",
+        "messageCount": 16,
+        "percentage": 0.07
+      },
+      {
+        "uid": "u_NftzMw0luzaaCjTzzbfSoA",
+        "name": "通信2303岳康",
+        "messageCount": 16,
+        "percentage": 0.07
+      },
+      {
+        "uid": "u_TAnmXemdvfZtddK9iMYYeg",
+        "name": "电信2408刘林涛",
+        "messageCount": 16,
+        "percentage": 0.07
+      },
+      {
+        "uid": "u_OU7-4Soj1kLIfYIBlSH5fw",
+        "name": "电信2403王睿秋",
+        "messageCount": 15,
+        "percentage": 0.06
+      },
+      {
+        "uid": "u_4bE7Hkc_RM0j66VD0uB7zg",
+        "name": "2310周云鹏",
+        "messageCount": 15,
+        "percentage": 0.06
+      },
+      {
+        "uid": "u_qumctZwrRmQjSrPtCFeeTw",
+        "name": "通信2404胡金松",
+        "messageCount": 15,
+        "percentage": 0.06
+      },
+      {
+        "uid": "u_U0QFkvM6bU9yrFisk4n5iA",
+        "name": "信卓2201-董浩",
+        "messageCount": 15,
+        "percentage": 0.06
+      },
+      {
+        "uid": "u_t8MLFTuvWyFB9dyBoCQvjA",
+        "name": "电创24鱼智浩",
+        "messageCount": 15,
+        "percentage": 0.06
+      },
+      {
+        "uid": "u_V43G4HRnecu0wBtnCJ1Wgw",
+        "name": "通信2303郭涵",
+        "messageCount": 15,
+        "percentage": 0.06
+      },
+      {
+        "uid": "u_9Kx7KyYKmJ9Df4CtoNb3Jg",
+        "name": "电信2104-付昱翔",
+        "messageCount": 15,
+        "percentage": 0.06
+      },
+      {
+        "uid": "u_wpJBAtzVypsWwtzfHPxIow",
+        "name": "通信2203-高博",
+        "messageCount": 15,
+        "percentage": 0.06
+      },
+      {
+        "uid": "u_0LTFbiTGBcjOFo3SyBrAEg",
+        "name": "电信2401李俊辉",
+        "messageCount": 15,
+        "percentage": 0.06
+      },
+      {
+        "uid": "u_S5fHFRViLH7rRlUsFhYbBg",
+        "name": "电信2404王至成",
+        "messageCount": 15,
+        "percentage": 0.06
+      },
+      {
+        "uid": "u_VEkyUprjzPctEHoZil8k2w",
+        "name": "提高2101赵乐宇",
+        "messageCount": 15,
+        "percentage": 0.06
+      },
+      {
+        "uid": "u_MiMYwYZO0HqhMNC1_r_67A",
+        "name": "电信创新2402林志恒",
+        "messageCount": 14,
+        "percentage": 0.06
+      },
+      {
+        "uid": "u_xZXc6Px2HftEOj0_3916uw",
+        "name": "通信2303谢显琴",
+        "messageCount": 14,
+        "percentage": 0.06
+      },
+      {
+        "uid": "u_GlXw_CTlE8e0AECeipjIiw",
+        "name": "24-电信-孙靖翔",
+        "messageCount": 14,
+        "percentage": 0.06
+      },
+      {
+        "uid": "u_ymD1ePQ5vpHu1SO6RnrkYQ",
+        "name": "电信2407杜冰",
+        "messageCount": 14,
+        "percentage": 0.06
+      },
+      {
+        "uid": "u_Y7zXJaqsf4GpRDOYmpqCAQ",
+        "name": "电信2203-张羽飞",
+        "messageCount": 14,
+        "percentage": 0.06
+      },
+      {
+        "uid": "u_v2AmLHBWgVaKDZd4rNMUxA",
+        "name": "电信2302张紫阳",
+        "messageCount": 14,
+        "percentage": 0.06
+      },
+      {
+        "uid": "u_nvo_-g0_8yyA2RfpemX__Q",
+        "name": "通信2203叶家典",
+        "messageCount": 14,
+        "percentage": 0.06
+      },
+      {
+        "uid": "u_4NxtsW0m928dIE-zkWVxJQ",
+        "name": "电信2203－阮江博",
+        "messageCount": 13,
+        "percentage": 0.06
+      },
+      {
+        "uid": "u_2-I6aUosjJTC1JtQrHn7kg",
+        "name": "电磁2202刘苏乐",
+        "messageCount": 13,
+        "percentage": 0.06
+      },
+      {
+        "uid": "u_lgBC36fA0XKl80y_Hgugkw",
+        "name": "电信2203李骏瑶",
+        "messageCount": 13,
+        "percentage": 0.06
+      },
+      {
+        "uid": "u_UtzmwREskiuZIafxzwJZZw",
+        "name": "电信2202曾泽锋",
+        "messageCount": 13,
+        "percentage": 0.06
+      },
+      {
+        "uid": "u_naF1ApHXS3v-hTMae4KneQ",
+        "name": "种子古静怡",
+        "messageCount": 13,
+        "percentage": 0.06
+      },
+      {
+        "uid": "u_eOdIme4A5Logi98vWA2Jjw",
+        "name": "22-通信2204-孙键",
+        "messageCount": 13,
+        "percentage": 0.06
+      },
+      {
+        "uid": "u_NH5OAaXpPxIvsGlAh6ENYQ",
+        "name": "电信硕2504陈凌威",
+        "messageCount": 13,
+        "percentage": 0.06
+      },
+      {
+        "uid": "u_O2U9-7udvAEWN1MkxhJ5GQ",
+        "name": "电信2005-朱凯",
+        "messageCount": 13,
+        "percentage": 0.06
+      },
+      {
+        "uid": "u_8UYbRB0NSqSvCm4-e0UGrg",
+        "name": "2202 彭显远",
+        "messageCount": 13,
+        "percentage": 0.06
+      },
+      {
+        "uid": "u_qWSCCCWrjU7yd9zQeHOIEQ",
+        "name": "2301胡翔熠",
+        "messageCount": 13,
+        "percentage": 0.06
+      },
+      {
+        "uid": "u_XajxQdSJEKiKfykGBoYPxQ",
+        "name": "电信2402陈杰威",
+        "messageCount": 13,
+        "percentage": 0.06
+      },
+      {
+        "uid": "u_gMD9846EyBbzeywdjZgcMQ",
+        "name": "电磁2101邸天一",
+        "messageCount": 12,
+        "percentage": 0.05
+      },
+      {
+        "uid": "u_-XPEMWVPw1KskjhsAluMiw",
+        "name": "电信2203班-龚杨锐",
+        "messageCount": 12,
+        "percentage": 0.05
+      },
+      {
+        "uid": "u_0uMYkAhMjaD8_zAbyzoeeg",
+        "name": "信卓1901-何承天",
+        "messageCount": 12,
+        "percentage": 0.05
+      },
+      {
+        "uid": "u_SiDdJ9jA4niay0zMfJQDkQ",
+        "name": "电信2302王笑涵",
+        "messageCount": 12,
+        "percentage": 0.05
+      },
+      {
+        "uid": "u_N0L-_hVbufDkkrGwYOIs3A",
+        "name": "通信2203程时政",
+        "messageCount": 12,
+        "percentage": 0.05
+      },
+      {
+        "uid": "u_vEPj-tjB6bVsYJbcr6k51A",
+        "name": "电信2205黄思颖",
+        "messageCount": 12,
+        "percentage": 0.05
+      },
+      {
+        "uid": "u_r4Icmc4ZCe-3MQ6YxaVSCA",
+        "name": "信卓2201-黄青青",
+        "messageCount": 12,
+        "percentage": 0.05
+      },
+      {
+        "uid": "u_MgEVRWZl6IcJxiVllgaCIg",
+        "name": "森汓",
+        "messageCount": 11,
+        "percentage": 0.05
+      },
+      {
+        "uid": "u_hedjNl4QDYIJApO-23heHQ",
+        "name": "种子2201 李文皓",
+        "messageCount": 11,
+        "percentage": 0.05
+      },
+      {
+        "uid": "u_XqjO1qB0_y6EsiMZCya5eQ",
+        "name": "电信2406-王梓云",
+        "messageCount": 11,
+        "percentage": 0.05
+      },
+      {
+        "uid": "u_6cC9m_wVS0vzDUukjhJbbA",
+        "name": "通信2204 郭旭",
+        "messageCount": 11,
+        "percentage": 0.05
+      },
+      {
+        "uid": "u_d38Dg28RWEW73eWouZhJxA",
+        "name": "电信2204 刘啸禹",
+        "messageCount": 11,
+        "percentage": 0.05
+      },
+      {
+        "uid": "u_kJWStJQtF5i9GpfN4SFA1A",
+        "name": "电信2305周浔",
+        "messageCount": 11,
+        "percentage": 0.05
+      },
+      {
+        "uid": "u_SnAwZbuJR-cwDMPMXPJz9w",
+        "name": "电信2201-吕桂杉",
+        "messageCount": 11,
+        "percentage": 0.05
+      },
+      {
+        "uid": "u_ce5TmsAsSwmYXUIAgWDqIg",
+        "name": "信卓2001-高倩文",
+        "messageCount": 11,
+        "percentage": 0.05
+      },
+      {
+        "uid": "u_ZELi9DVWeUfXkuPR7YowcA",
+        "name": "提高2101-周奇",
+        "messageCount": 11,
+        "percentage": 0.05
+      },
+      {
+        "uid": "u_F3Qgl4KlPhPyPZ4ti63Wtw",
+        "name": "通信2202-武晨曦",
+        "messageCount": 11,
+        "percentage": 0.05
+      },
+      {
+        "uid": "u_KEOyM4NuagWSS9zYordUQg",
+        "name": "电信2201-欧怡宏",
+        "messageCount": 11,
+        "percentage": 0.05
+      },
+      {
+        "uid": "u_xqMNmMrGsi8uMpC4bCwR0Q",
+        "name": "通信2202班-翟今朝",
+        "messageCount": 11,
+        "percentage": 0.05
+      },
+      {
+        "uid": "u_jKquhEO-rBUKOo9ppsFQyQ",
+        "name": "电磁2102-张涵驰",
+        "messageCount": 11,
+        "percentage": 0.05
+      },
+      {
+        "uid": "u_LpKcNs3Nh9sl8tlHbW9PUg",
+        "name": "crystal",
+        "messageCount": 11,
+        "percentage": 0.05
+      },
+      {
+        "uid": "u_IYts0umla3PymGoTQ5yDZA",
+        "name": "电信»汉语言文学~刘瑜",
+        "messageCount": 11,
+        "percentage": 0.05
+      },
+      {
+        "uid": "u_FyNlPfBMC1SkgPbTkOyUQA",
+        "name": "王博熙",
+        "messageCount": 10,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_frtCuKCwhfIKQT_eF-ZhGQ",
+        "name": "通信2201王一赫",
+        "messageCount": 10,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_i3pORqolfImipANwH99s7Q",
+        "name": "电信2204黄皓阳",
+        "messageCount": 10,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_qHcCeonGc_D7VP33zDWqbg",
+        "name": "电信2403-尹浩然",
+        "messageCount": 10,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_khddRZivTqLykclLkepDEA",
+        "name": "电信2404覃智超",
+        "messageCount": 10,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_lBXsSL8UTGvNkGyVsrV1Ng",
+        "name": "电信2411江正达",
+        "messageCount": 10,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_E1_HaLCbyUkSY3Du8ye93w",
+        "name": "通信2402邱梓茵",
+        "messageCount": 10,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_ohqbqa66QSUQUbERb2v7Zg",
+        "name": "电磁2301张驰",
+        "messageCount": 10,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_PRhpAnWjB9MxEhxujsj6mg",
+        "name": "自动化23曹宇杰",
+        "messageCount": 10,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_9enqBwmqAYoeB5PFtvi2gQ",
+        "name": "电信2108-曲占洋",
+        "messageCount": 10,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_qB-AQLBVOtb6q8c5_9V6zw",
+        "name": "通信2201许伦睿",
+        "messageCount": 10,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_O4DVOLuZFc6DxzVr4--LWQ",
+        "name": "电信2105-邹越洋",
+        "messageCount": 10,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_GcTkbXKbRi_XJ8FIwZMGyg",
+        "name": "2310林琪斯",
+        "messageCount": 10,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_MlkEvUwWCRNbGdrFdVysmw",
+        "name": "2203吕佳航",
+        "messageCount": 10,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_MDczWalEmvBaFLpfXExwsw",
+        "name": "电信2202曹原",
+        "messageCount": 10,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_75_q0vXliG0ZcGd0tGwWcg",
+        "name": "电信创新2402李昭阳",
+        "messageCount": 10,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_tF1UKEvJLKeDayiScDe1Dg",
+        "name": "信卓2201韩言鼎",
+        "messageCount": 10,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_zR55vEGkHuVIbYdow7O67g",
+        "name": "通信2204郝亚青",
+        "messageCount": 10,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_uy_CoGW95IQ91QwjNLvohw",
+        "name": "通信2102厉俊成",
+        "messageCount": 10,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_vS5Ds5cYH1FTK10Tvubm2w",
+        "name": "电磁 2301 张轩",
+        "messageCount": 10,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_2k4KwavGUE-EF4cGvAbPhQ",
+        "name": "电信2401侯茂强",
+        "messageCount": 10,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_pTF7JEf-7xHHIJCwqCd4mA",
+        "name": "电信2102-杨桢凯",
+        "messageCount": 10,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_fl7Q5O7IXTKdN7ZPEbqjMQ",
+        "name": "电信2403徐克",
+        "messageCount": 10,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_bF0qwzVLhAL5BjQ09lzolw",
+        "name": "电信2404赵少川",
+        "messageCount": 10,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_WCWGLcVzC7X65Xc2FSZIfw",
+        "name": "黄朗2403",
+        "messageCount": 9,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_BkrnE9ZHtTyZnMV9iiLmhg",
+        "name": "通信2203阳佳铭",
+        "messageCount": 9,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_1GICWMfYmB6ctwKuK_fuNA",
+        "name": "通信2204班肖晨晖",
+        "messageCount": 9,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_wgAHGZ6nliXQO9n71jjK2g",
+        "name": "通信2301李煜杰",
+        "messageCount": 9,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_5QpMv3Izw7YpLf92Zdj-EA",
+        "name": "电信2205 陈佩琼",
+        "messageCount": 9,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_W_7ES0V6oohSu_TByhWUow",
+        "name": "电信2406 成祖阳",
+        "messageCount": 9,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_JyBT3ZSDQ2WxKt-afiXFCA",
+        "name": "电信2104尚子皓",
+        "messageCount": 9,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_hJX5qwpCdmQ8-tJV_ffm_Q",
+        "name": "通信1901鲁宗琪",
+        "messageCount": 9,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_I8gnCyqH5wzOJDd5xjHnaA",
+        "name": "电信2407禹云楠",
+        "messageCount": 9,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_BE7s99z_H8xGNlnBuP36VQ",
+        "name": "电信2201-王一然",
+        "messageCount": 9,
+        "percentage": 0.04
+      },
+      {
+        "uid": "u_lz7-V5YS80PQx8tppvB2Og",
+        "name": "电创2401 杨清含",
+        "messageCount": 8,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_7t9_2t033JN1xIOVcvTEKA",
+        "name": "电磁2301赵雪情",
+        "messageCount": 8,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_LyVBXvDAUs7dqkrshaf1DQ",
+        "name": "电信2307班毕嵩尧",
+        "messageCount": 8,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_5jK5CtAIBrxxAq4n3acqzQ",
+        "name": "种子2201-张喆",
+        "messageCount": 8,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_x3BiFA2tImiANTe6HAFHtA",
+        "name": "电信2401刘潇",
+        "messageCount": 8,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_KXkkIzp2o5AWm-zZvfwQ5w",
+        "name": "电信2404 郭彦林",
+        "messageCount": 8,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_mcfRoRRUAdZmuD9aO-nT_Q",
+        "name": "电磁2402易立",
+        "messageCount": 8,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_OwkOMgU1RnSKQrovAHRJKg",
+        "name": "电信2105-陈世豪",
+        "messageCount": 8,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_qgBw-udNpE76DV0l8y1yAA",
+        "name": "黄帅哲 U202314618",
+        "messageCount": 8,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_piYD_ImMNc-izrbUSncxOg",
+        "name": "通信2102曾梦瑶",
+        "messageCount": 8,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_O5bGDOsKd2iqrQ-UiQaoSQ",
+        "name": "信提21-李昱霖",
+        "messageCount": 8,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_OImF1RtlZLosChk4Qwf0_w",
+        "name": "通信2304侯思涵",
+        "messageCount": 8,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_r5A9adsvi0nXZN36dbBZCw",
+        "name": "电磁2201-汪子豪",
+        "messageCount": 8,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_ftywPXvx87rHRAKVx6_ocw",
+        "name": "通信2101 涂天阳",
+        "messageCount": 8,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_M5TU0xQHDQ3EwFrtv6jFLg",
+        "name": "电信2101文伟臣",
+        "messageCount": 8,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_9kelnrndRUm-WaESDa6MaA",
+        "name": "通信2202郑帅",
+        "messageCount": 8,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_Ry-gywYtvZBxvN3t7FW-mQ",
+        "name": "2022电信吴昊",
+        "messageCount": 8,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_iLXp0BIJ_Poal3PgRlc4yQ",
+        "name": "电磁2102-连凯",
+        "messageCount": 8,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_508jhePc3CVJN-Zh8cfY4Q",
+        "name": "通信2101-彭为民",
+        "messageCount": 8,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_QTsVD_RYy4RuKRC1oC7ahg",
+        "name": "通信2104-王佳伟",
+        "messageCount": 8,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_EI4YpuArq3CNvAKs2fE59Q",
+        "name": "成长",
+        "messageCount": 8,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_K4rK-DSj8rYBrxm-re5hBg",
+        "name": "通信2104欧阳一",
+        "messageCount": 8,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_40Ek_ZlYqj8Z4bOpb02lRg",
+        "name": "电信24-曹婧岚",
+        "messageCount": 8,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_jZoNAnu2J2Nh389ulVnQIQ",
+        "name": "2408王乙焯",
+        "messageCount": 8,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_EE2tZ0gFC3mTKZ9RXKyA3Q",
+        "name": "电信2301冉煜宁",
+        "messageCount": 8,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_7A6xFdO_5g1VMFIlwVyJWA",
+        "name": "信卓2301-郭琰",
+        "messageCount": 8,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_uUgvns3ozqjK9BzJkFRjtA",
+        "name": "电信2004班-王彦凯",
+        "messageCount": 8,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_a2Stcgj5kGr5PqzepePR2w",
+        "name": "电信2102－韩天宇",
+        "messageCount": 8,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_cB0yitoZKaWDSRbHVDSUbQ",
+        "name": "电信2105刘嘉欣",
+        "messageCount": 8,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_vR2Eaj9NYGQ2XyR3J6j4Vg",
+        "name": "电信2408王楚博",
+        "messageCount": 8,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_s17sKa1vfEuV3u8ozYYJRA",
+        "name": "电信2003程展",
+        "messageCount": 8,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_0VPZoXI5AbH5iwEbTbeqIQ",
+        "name": "电信2002 陈琪",
+        "messageCount": 8,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_tbtm0msAcKZBsJT0G3faIQ",
+        "name": "电信2001 潘昊",
+        "messageCount": 8,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_bDJ-61xQ_3Y8gw9p8NB_ZQ",
+        "name": "电信2001-李升然",
+        "messageCount": 8,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_O6g2LiRBmfbSdKQHS5RNdQ",
+        "name": "提高2101  王润鹏",
+        "messageCount": 8,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_tUV4q3aOhqQReJ8tj9x6Vg",
+        "name": "通信2303-何欣宇",
+        "messageCount": 8,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_fj5lcCev5UV4HZfkU8sFCQ",
+        "name": "电信2403郭逸飞",
+        "messageCount": 7,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_hWd4vrtf2Lbns6zDv0Z4ig",
+        "name": "电信2404罗皓文",
+        "messageCount": 7,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_EE7Y4VK9loXTH0ETJHsQuQ",
+        "name": "信卓2301夏天宇",
+        "messageCount": 7,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_zl4geQ7xiLgCan3c9fvoCQ",
+        "name": "2408 潘浩睿",
+        "messageCount": 7,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_-rKJ1QfAHHnIev7BB-2RSA",
+        "name": "电磁2102班-吴晨昊",
+        "messageCount": 7,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_VNt406PM8PN2-djMHIwJeg",
+        "name": "电信2404 有马健",
+        "messageCount": 7,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_txtxkYwqdnSqmtZ5gzP9XQ",
+        "name": "电信2305葛铎然",
+        "messageCount": 7,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_XPzdRvzxeNuaeOQG86Xmvg",
+        "name": "信卓2201-朱烁宇",
+        "messageCount": 7,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_hBdqtjWj2OUQQRfoL2UuDQ",
+        "name": "通信2301-刘晓蝶",
+        "messageCount": 7,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_yZblqcpsyAE3oujhlbiJqw",
+        "name": "电信2304王常乐",
+        "messageCount": 7,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_9nIfl7RGPkR8ZAaw6IbSAA",
+        "name": "通信2104陈萌萌",
+        "messageCount": 7,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_hjVdjLqapuY0-5cVb2UlQA",
+        "name": "提高2301王怡翔",
+        "messageCount": 7,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_N70QvXUBxEPvOfnM4hiz1w",
+        "name": "2023 电磁 刘畅",
+        "messageCount": 7,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_kqL6HF6WSDeXuIQt8NNfhw",
+        "name": "电磁2001-陈芫昊",
+        "messageCount": 7,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_rQ2f7-v42PWCfSabfbjv-g",
+        "name": "电磁2201陈霄鹏",
+        "messageCount": 7,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_ieaANWWJStDixf6Mc8wn1w",
+        "name": "电信2305许科润",
+        "messageCount": 7,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_e8_KyV78k3GZ8paVNeCjIw",
+        "name": "通信2202何圣记",
+        "messageCount": 7,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_r5vjq-Bz8Y-lyJtJaaTQMQ",
+        "name": "电信2502-石珂",
+        "messageCount": 7,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_t7UMWQnQoDY5UojvE6sQgA",
+        "name": "信卓2201-权智垚",
+        "messageCount": 7,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_aFVcdAWuQcsFH5DUpSHeow",
+        "name": "信卓2301-蔡昌洋",
+        "messageCount": 7,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_frv1GhgJ0OvvIxom2CkJ6A",
+        "name": "电信2202 张全",
+        "messageCount": 7,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_Jm8Ey2gxyv8ftq_nOi1lHw",
+        "name": "电磁2202赵楠",
+        "messageCount": 7,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_ET37adpmZiViaMA_wswDvA",
+        "name": "电信2201提高童浪",
+        "messageCount": 7,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_4FNkEDaLxnKrPUAltNQJcw",
+        "name": "通信2302-郝嘉晟",
+        "messageCount": 7,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_An7EaA7rCdAKM_99B1g1vg",
+        "name": "电信2401刘琨",
+        "messageCount": 7,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_6CYV4Tg0NKTqNtRBKOTxwg",
+        "name": "电磁2202班-白颖颖",
+        "messageCount": 7,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_tT_lw8R1cFXf6gunZG0xWQ",
+        "name": "电信2102-刘瑞奇",
+        "messageCount": 7,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_cWiwlU6aw6ZKP_hapZRYNA",
+        "name": "电信2023张益歌",
+        "messageCount": 7,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_lrjp2ezQO9rigAMk-zRaIQ",
+        "name": "通信2304李学峰",
+        "messageCount": 7,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_BlCJKP8dgouElP7syEvaSg",
+        "name": "电磁2301曹骏",
+        "messageCount": 7,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_AurfJwo-UefXYRtOAR9_Iw",
+        "name": "电信2104 严家伟",
+        "messageCount": 7,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_kFNb3I0LZb0j13Mm-FXGBA",
+        "name": "电信2102刘登沐",
+        "messageCount": 7,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_xt45L4dZpbHqdyS1tV2OzA",
+        "name": "电信2103王淑敏",
+        "messageCount": 7,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_t5v9lN1PXOS7IwxfEg1TCQ",
+        "name": "电信2402景成乾",
+        "messageCount": 6,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_x-U4ayDmWe1n___5bnB4ew",
+        "name": "21宁毓伟",
+        "messageCount": 6,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_z0fxEVQPfzkupYHyhhStOw",
+        "name": "电创2401刘宏远",
+        "messageCount": 6,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_azbakBCUUdSq5kRTRB5gAQ",
+        "name": "电信中英-赵良媛",
+        "messageCount": 6,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_RmkYH57KcNi2aGvoocy5aA",
+        "name": "电信2202邓皓阳",
+        "messageCount": 6,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_z6pCSIE8k3mC38qHlWUjUw",
+        "name": "电信2201班张立轩",
+        "messageCount": 6,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_HZJWAGdLeuxm7IFROYHt7Q",
+        "name": "2401周立钦",
+        "messageCount": 6,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_0D3U8xBkqDnl4suoD4AxCA",
+        "name": "通信2304-周子琪",
+        "messageCount": 6,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_XJ5eTZY8pfvwGoOoddLypw",
+        "name": "电信2001陈雅怡",
+        "messageCount": 6,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_q1NI0FCxvrA9tfvuKs2vkA",
+        "name": "电信2404班-李一鸣",
+        "messageCount": 6,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_zU2gQu4Vm5ZjvOnjyvHOZQ",
+        "name": "电信2105-李艺",
+        "messageCount": 6,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_tUnp57dYZwP1jGK26dgiVg",
+        "name": "belief.",
+        "messageCount": 6,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_lUww1nLMWlyAq2Pec1cw5Q",
+        "name": "信卓2201-李斯卓",
+        "messageCount": 6,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_W7iQeHFr_uAKf76O_MhhuQ",
+        "name": "电磁2301朱安琪",
+        "messageCount": 6,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u__MY4QO1lTrxcfqlp1YNGVQ",
+        "name": "电信2409文睿杰",
+        "messageCount": 6,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_ApSIAoOCiFoc655S5fA0kQ",
+        "name": "电信2204-林子莉",
+        "messageCount": 6,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_UKgeSZwyMX7W7I8h5wLesQ",
+        "name": "电信2303傅超鑫",
+        "messageCount": 6,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_NK31PFU9K0ksZBqscSYBaQ",
+        "name": "通信2204史周翰",
+        "messageCount": 6,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_oBWLZwMV5rSfkn-S5VPkEQ",
+        "name": "电信2302 张世君",
+        "messageCount": 6,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_yI2Mn6h9gpbINUFBL92m7Q",
+        "name": "电信2204许馨予",
+        "messageCount": 6,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_prcERoQczL-0DEKo7qY1EQ",
+        "name": "电磁2201-王策",
+        "messageCount": 6,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_zPwCCqtyLoUvWUT5AisL5g",
+        "name": "通信2001班段芝慧",
+        "messageCount": 6,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_P5xjo0xdAX3aqc-JJZUcEQ",
+        "name": "电信2301-李海天",
+        "messageCount": 6,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_wKJyNIksoTUUaxfusp3IsQ",
+        "name": "电信2403潘弋阳",
+        "messageCount": 6,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_iI4Ko_kQC_uNw2BEU_dL2g",
+        "name": "电信2101陈冠宗",
+        "messageCount": 6,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_cp8fc62YTZRykdn8WihlHw",
+        "name": "通信2103-孙浩玮",
+        "messageCount": 6,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_isUlMlDW7ELMVDihPwpgHw",
+        "name": "电信2104毛华盛",
+        "messageCount": 6,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_-UDWk1hSwyu6LkKJalWt1A",
+        "name": "提高2101-章玄",
+        "messageCount": 6,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_YxL8tsFXVO-GNDwDYaQGLw",
+        "name": "电信2105霍日诚",
+        "messageCount": 6,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_g4cHPQnI9R9bPHUGLPz4jg",
+        "name": "2408张博思进",
+        "messageCount": 6,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_lXLVL88eBxCvGXwim5eBCA",
+        "name": "提高2101-王梦婷",
+        "messageCount": 6,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_ZQ2HIazk0C8595h7-dsoKg",
+        "name": "种子2201 杨亚军",
+        "messageCount": 6,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_frmD25d39FGWOVAQy_JKpQ",
+        "name": "人间落岁星",
+        "messageCount": 6,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_HKwg77Pu-vs9TpvlvTn53g",
+        "name": "提高2101 陈莺",
+        "messageCount": 6,
+        "percentage": 0.03
+      },
+      {
+        "uid": "u_8mATnAzAa9gFwKo9anQTcg",
+        "name": "通信2304班蔡锐",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_KP4EDiw6F67Fd-H5ESz2hQ",
+        "name": "电信2404陈宇轩",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_VXTAUJnlIxLIY58XbSdBKQ",
+        "name": "电信2205李顺祺",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_0_PuGSPj_TzaTYJMdVVOgw",
+        "name": "信卓2201-刘高岑",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_JafqfC4OqO39_R06pppREw",
+        "name": "通信2301胡一欢",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_aI16Hw_WjY7JXaXPoVpzEQ",
+        "name": "通信2404 佘思彤",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_4UAd8S3UWFhXEEPwCWgdMg",
+        "name": "电信2109符羽翔",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_H8ZRfkdpR0GHYYnISxdeBg",
+        "name": "电信2304-齐志轩",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_R6B6DhHHQIoPGptza2wfjw",
+        "name": "2408 何烨",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_VdxfpifuQVGOhlpkBLfDog",
+        "name": "通信2202-黄柯琦",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_VgzSxsIgJRkW5s7xhCeIHA",
+        "name": "通信2101周展博",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_JgQE862XKuB978QQO9sZ7A",
+        "name": "pp",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_YnlhotkAJUGfx12GEmJVrg",
+        "name": "通信2302-黄臻煜",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_36zJBYkj2X2rK23q453Y2Q",
+        "name": "电信2305 王铎",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_a0mlXw9YRHKdyZaTAFLt5w",
+        "name": "电信1904李煦蕤",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_G9Tiub-Cnm4t5xzJtWjCDQ",
+        "name": "电信2002-王世康",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_umaqyOHyzfcRRrSJtTK8Sg",
+        "name": "电信2305裘琦鼎",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_2OCArfYvQnpcWWmigDlY5Q",
+        "name": "电信2002班-郑子未",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_hoPparqpA87YwtbIaOdF1Q",
+        "name": "电信2302-李宸源",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_oXIsu9NTtYidFvyPLlzgow",
+        "name": "通信2203-董浩铭",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_wLQ3Lj7syCCuQLil6VjYpw",
+        "name": "电信2105伍子豪",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_8rD8nbItpGnlE3iyClgP2A",
+        "name": "电信2101刘婧",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_e6c7y1ox8JDmBQ59P0EiQA",
+        "name": "电信2301 王思俨",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_zLm_R2jC33RgEbOgVssY0g",
+        "name": "电磁2001-葸瑞昕",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_ggu8xFNoP2dQCXTpIAREeg",
+        "name": "电信18黄鹏辉",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_BHy-IbeMxngXpRD5pq2s9Q",
+        "name": "电磁2102丁柯逸",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_10_PMcxmve7BRVJ-uQOrlg",
+        "name": "电磁2202袁自强",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_aFNDGAn-M37k5-KE0PiS4g",
+        "name": "电信2102吴奇",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_HUgu6Eq4fUlojmyVPTTeLA",
+        "name": "2024博李科",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_eoGeenJSWJj6XOFG8Mlibw",
+        "name": "电信2203班 朱戌亮",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_FkiJ7w0x1eFsgjAhPQMuZA",
+        "name": "电信2303何锟塬",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_41HSKxf6NfHfhfVrwffNYg",
+        "name": "电信2102汪正宇",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_Io9nsV4bbwABBp5yw9DB_A",
+        "name": "通信2003-张思乐",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_ZiP9ou9fZEpc1tLcRODffg",
+        "name": "电信2105吴晨希",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_sFJja6mbxXuljS5VGcno5A",
+        "name": "2401-王睿",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_AEKI8rKxXF6Wi2focDn7Ug",
+        "name": "电信1904莫茗程",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_UPy9b7E82ZektTKptdNfAQ",
+        "name": "电信2407刘嘉乐",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_Uxbbc2DTrjYxhFwXX_Jafw",
+        "name": "电信2305 郭睿寒",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_Wap94muSftRyMCBXZduP2Q",
+        "name": "电信2002-何科栩",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_cnVuJCrj995YKPypdjOELQ",
+        "name": "电信2407-杨子浩",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_W7lAOfJcsOK_v1VtOf7pfQ",
+        "name": "电信2102文泽同",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_ukeTeHyKgQIE7GqFFt2Otw",
+        "name": "电磁2301康健哲",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_S-p7Uwdfuz22SNlHa4sGEg",
+        "name": "电信2205班 马金鹏",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_to7enMW2SE3UNb9UTZ21eQ",
+        "name": "种子2101蒋逸伦",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_IGV_qNgwd2QNxJXtzMyZ9g",
+        "name": "提高2101袁上林",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_7MQ6EJeAtEnHx3_4LWlnWQ",
+        "name": "电信1901赵灌华",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_h1uD0AemkPd3IyYXvw_HyA",
+        "name": "通信2101-范张强",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_NL8C75XQFMr9cnvGT9GWrA",
+        "name": "博2401-孙凌志",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_VB8dhlzEI5vlQEKyMaMqPw",
+        "name": "Alcara",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_mQdrA4IAjenqcmBAFGf_tQ",
+        "name": "电信2407满桐岳",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_gi2Mxu_WU1x5zrBgJo_X-w",
+        "name": "21级-电磁2班 周思达",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_h_Izq4lsS_2uhbZsG_yYuw",
+        "name": "2406-电信-顾睿杰",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_M1MXnchGSgYvr4aVvjh4SA",
+        "name": "surge",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_WNhXCilCNb-cQG1O1KFV6w",
+        "name": "通信2102蔡雨琴",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_efCpWx2RqnloI5IkpQC3bw",
+        "name": "电信2102许小鹏",
+        "messageCount": 5,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_9Ki0n3wRdk6keSaAmxXd1A",
+        "name": "通信2201吴嘉诚",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_mmTuO2Jspi3hv9La0X0e6g",
+        "name": "信卓2101班 黄煜翀",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_lAyj_XebpI6Nakwc9rcVbA",
+        "name": "电信2303刘馨予",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_B2-psozW3K6os0SQ32-7AQ",
+        "name": "电信2301陈冠宇",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_SJJVBM9UBc3ej96uW7cYPQ",
+        "name": "冉",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_WHtiTMG7ELhn-flbDi3UTg",
+        "name": "通信2103汪嘉铖",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_0dyTcFjY3y-1ASyqY8ZeGQ",
+        "name": "电信2201李逸群",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_0C2pWsgq6ETBj3rvQkMq7A",
+        "name": "电信2303-刘致智",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_VjgfP86TGRRQrIt1c4f2LA",
+        "name": "电信2301 林萌希",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_low9jdb100dXeZADhk-DIQ",
+        "name": "电信2403邱哲",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_2GLvXUsXEfBM6TlgY_XCIQ",
+        "name": "电信1802黄嘉翰",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_DQD0QApuStl-ugPXMzrxuQ",
+        "name": "通信2204张驰",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_HKAdzNUKz-67rp7zbWyxKQ",
+        "name": "电信2209寿霖睿",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_Hic6DMhF7t84MH2w9a20jw",
+        "name": "通信2303-夏羽佳",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_gQgXeV_CJMMrjUqXWHzaFg",
+        "name": "通信 蔡泽旸",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_s5oDgZjkS3wgfMaAHIO8jQ",
+        "name": "电信2409胡徐盟",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_LCWqGy_XSDOx_PvAYUNgUw",
+        "name": "提高22许超淇",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_1aQC4v4s2XJrs9UAmgfkyw",
+        "name": "通信2302张峻尔",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_9q_yeNpEagQq0TeYodmqeg",
+        "name": "通信2301吴渟渟",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_VfkwW1ZMih2B6kwtQOY0eA",
+        "name": "电磁2201-蒋家豪",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_kMjUEz_w-E9Ef05Pz_0ZCw",
+        "name": "电信创2汤宇新",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_X353nesibfmH9v6PVT6jXg",
+        "name": "电信2201齐子豪",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_RwuBEMtuJBywzakTGKCNrQ",
+        "name": "电信2407卢子迅",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_CB_scWZ26xYKBag9WqLjtA",
+        "name": "电信2205班刘诺",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_B4YNqOomP1FJvqsIDSevTw",
+        "name": "电信2402赵子轩",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_lkGXjKk1oiPQ-keKZ5JlXQ",
+        "name": "提高2301吴彦儒",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_c4wkJkMYqHDWJlUzPxpkWQ",
+        "name": "电信2301-向尚",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_2xEJLJTtghDZBQMQ6QCxNA",
+        "name": "电磁2101牟文睿",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_rhXkw-9j8K3H-eV07HB2Sg",
+        "name": "电信2201 王翔宇",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_sag8lfPQ6V4AJy6x4uOc2Q",
+        "name": "电磁2202-蔡文瑾",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_8CFHQX5aWFlNv0rWUfib4A",
+        "name": "电信2202-陈梓彧",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_5DEOqH5XkBMgQKHGvq6qlw",
+        "name": "电信1905孙照斌",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_Aln9c6z-Xl9_cmBW1rYhFw",
+        "name": "信卓1901-熊琪龙",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_MAA_wEmaNKZjLWKCOdQ9tw",
+        "name": "电信2205朱浩楠",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_Thq8CxvytIZ0ZYQNIgAJ-g",
+        "name": "通信2103-黄哲浩",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_k8QCKCnVelnrs49YRmIf1w",
+        "name": "ber",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_AN4x60sWVn4zOAn66bsBRg",
+        "name": "电信2203戚杭辰",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_wvdbyuNXAiEfZ2Hf16OerQ",
+        "name": "汪汪队缺大德",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_1ZzUed65HRi9AxgZrLQmIA",
+        "name": "通信2103林静琦",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_iUEE8G9IDLS14aC9JzitAg",
+        "name": "通信2002黄思婷",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_g0nik4fVLD3UnvOy05AoVQ",
+        "name": "通信2102赵芮",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_8eRZa9ZRz104uD5M_C52GA",
+        "name": "通信2001班-金帅",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_jBF1lLGWh7VCbGr5e5P0hQ",
+        "name": "电信2105-周锦舒",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_VI9bzaES59Lm4yEUttAcZw",
+        "name": "信卓2001-陈杰",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_ybKEhF-9u7bVwchk77revw",
+        "name": "24电信高艺铮",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_dMKlFdJqMPFJcAPpB-812A",
+        "name": "电信2411张雯昕",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_yM0vjQuRozf2TAtVEyIdlQ",
+        "name": "电磁2201王匡宇",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_vbTsZjIBJB0DcwOU_dReug",
+        "name": "通信2104-雷钟鸣",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_WXkPdci84L6QKVXzAj3plQ",
+        "name": "电信2406-孟倚帆",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_OGGBLB4eZ_DMV7PNcIfGLg",
+        "name": "电磁2101冯柏毅",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_AKkGhDlkBOynUQClkWfRfA",
+        "name": "电磁2301-王毅轩",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_846b2xFIG9htZmkgjcDqqw",
+        "name": "通信2103-汪贺",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_dLSfv-YVVSqQdbfXboKp4Q",
+        "name": "电信2108康菽蓓",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_wEh60DPNh9vF8c1IBPj3Xg",
+        "name": "电信2101-泽西",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_1zPEH1BiyghQN8IRWHPJ6w",
+        "name": "2021通信2104王思权",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_uq-0aK6oVicH42rF4V0Cdg",
+        "name": "电信2103王彦博",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_4awExs-N3qLyRDc5kTQd7A",
+        "name": "Ran",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_zYGiEh7-YruxAJ1VxpBHQg",
+        "name": "电信2402田傲",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_coay2SheqcROfwI3CaLSPQ",
+        "name": "通信2103-李建萍",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_-HpYm3CkvE09Yt6qotDSFg",
+        "name": "通信2201景开欣",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_GqKxOzZC81Vv7DS4p0T5Bw",
+        "name": "电信2101_周宁",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_kx2daPV8nPuaFnpJlllszg",
+        "name": "电信2203 郑建炜",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_-HWfsQSA2OpaMIPm5hZZAA",
+        "name": "通信2301-蔡谨诚",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_5yPQ3d5D5l5LMXBOWlU_cg",
+        "name": "电信2305何天一",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_YyxAyRkSXm2IpHcky-bQvg",
+        "name": "电信2004-邓立桐",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_AvLo8dDj0agY70NPHd6aww",
+        "name": "电信2104罗雨萌",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_SBgmjq-E-_HTGnV4SmbYNw",
+        "name": "电信2405彭方钊",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_d0GruPCqmbqMe3SKTIqASQ",
+        "name": "电信2104 吴弘舟",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_5VjCrWi-jLOXuaMwKOI9cw",
+        "name": "2403刘浩",
+        "messageCount": 4,
+        "percentage": 0.02
+      },
+      {
+        "uid": "u_eXCteXaOfPxjic7VAGpmAA",
+        "name": "电信2401 汪熙",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_2XqTfVIxu_MEPLysQ4FIGw",
+        "name": "种子2001-王烨",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_1rV4ocACfOU67Gkw0SfjRQ",
+        "name": "种子2301蒋雨辰",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_vOUHNTwTXIi34qesBr-wJA",
+        "name": "一帆风顺",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_k3FTxhpWqY9XKRSWmUZNow",
+        "name": "2410梅皓天",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_Z-e8Mqw0QxazTP2lP36Gtw",
+        "name": "通信2303李滨",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_oYqaodLI8MhjDgr-QXsR3w",
+        "name": "电信2202蔡腾飞",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_Lbm4ygOpDY0XL28mTmU91A",
+        "name": "电信2103-冯煜森",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_MrEHYq9X1RDLy366BKa9Gw",
+        "name": "2307 杨建铭",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_S0HXxJfU1EUrgOZB3X9Bsg",
+        "name": "电信2202班徐子恒",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_wFkIlKrugZNo44topM-AVw",
+        "name": "电信2101-雷昊璇",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_lZmc4wWfLm17-96EHylQrw",
+        "name": "电信2303  伍军然",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_Gd1rk3doPZig3EiL5xN_RQ",
+        "name": "电信2401–徐倩怡",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_-d--m3dQLbVd38Yx9BaRbw",
+        "name": "电信2404彭书涵",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_rrdwqg264BsgEr6kLt6rQA",
+        "name": "电信2405何怡婷",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_mLANs0CDs0DuMzwDk6NdNA",
+        "name": "通信2201郭子仪",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_OvvuNPRY63fy9UmuHvf_Gg",
+        "name": "通信 2402 游威",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_GT2AuEY6GlkJMwcC6W_9iw",
+        "name": "电信2305梁宏允",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_Dc8uoO8UfURzMrKBog4Z1g",
+        "name": "电信2303田亮",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_UTNb4tG2MYYzii3eK0dNnA",
+        "name": "通信2402朱江",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_xZCRnTXYPSqPkS6JlgSkpg",
+        "name": "通信2405余博涵",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_j-wNCpkcEfCviitNn6rUYg",
+        "name": "通信2103-李泓恺",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_HbLZjWTnT9VqTuQayJMbEQ",
+        "name": "通信2304李天辉",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_wkuBMMuS0R0WWFMulxLARw",
+        "name": "通信2101-李响",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_CRaHryY71mngb1kABMjKpg",
+        "name": "22电磁谭思源",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_WiuClCqxXvRmjpAeP9Urpg",
+        "name": "电磁2102班易恭傲",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_2dV1cVcuvXmYGhX-NsN3HA",
+        "name": "通信2301班 罗观华",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_q2oOfgWgnRNkAn5dN5D7Fg",
+        "name": "电信02-郭默涵",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_pcBnY_GpRXaAnXONLIbyEw",
+        "name": "通信2204李森阳",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_iz8eWg2AuWgcKlhB0s9Tyw",
+        "name": "通信1904王臻",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_FsPeVknSZSuImDE0IDHYKQ",
+        "name": "通信2302赵耀",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_fNVh8GI0g4JIwWp9Gkf6ig",
+        "name": "信卓2201-陈乾",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_-X7tGfsfmDluFnDpVS1UHQ",
+        "name": "电信22孔令汀",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_AFmPKVVCsnkeixXmbDam7w",
+        "name": "电信2204-李思懿",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_7aCNCZS60oLofzK4fudZmQ",
+        "name": "提高2301陈孔明",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_k49g4-Cw9NF_OD_hOXexBQ",
+        "name": "电信2205彭楚云",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_OjKfgCND3YpCxoLrqSdapg",
+        "name": "电信2103秦绮",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_d0E68HcLLTczDB_YDtUyuA",
+        "name": "通信2104姜凯伦",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_jxPlrCXr2Q9sPxb10kvgXw",
+        "name": "通信2103班 黄天鸿",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_tUscd9boihkgr3Rlfx6sjg",
+        "name": "通信2104蔡振华",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_IgFBmblVMS-qRnupzkQgbA",
+        "name": "信卓2101-杨心怡",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_LW7Z7QVkQXqaV8kWp1Bi8g",
+        "name": "信卓2101吴永浩",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u__zwI7ehduCpzKyKbR7ouWg",
+        "name": "电信2301刘陈文",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_2K8ulNeq0fq599RejOYrTA",
+        "name": "通信2304储兆一",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_6M9k7Cbuafo_A6VA0_jQhQ",
+        "name": "电信2303涂姝文",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_WFfqHYyWO-mc3dOk4uv94Q",
+        "name": "通信2101代振宇",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_hEpVFmjCDOQwR5CCjjvnyg",
+        "name": "电信1902郭夏妤",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_1tsfqY0vG_NFqo88gwmCmw",
+        "name": "电信2202邹昕颖",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_llJaT5SWM2v2v8eSPbWaQw",
+        "name": "通信2104汪雨露",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_Db8mmNZaG2CqQd66C93Y9g",
+        "name": "通信2202-胡颖",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_lQ6x9D8x9ro0V0f7HxxDHg",
+        "name": "通信2104叶琦",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_MHN35PFHzSGmYZVadIeUcw",
+        "name": "通信2101 唐茜",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_RTMJPc0gPbxmUlL53pzBvw",
+        "name": "通信2103阿木克热",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_stDfdk0cpRT0pbFuudRtqg",
+        "name": "通信2103李彦超",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_K3aE67VfqbKDJ1baPe-kdw",
+        "name": "信卓2101-汪思贤",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_POYsxgpFRmGmCSQJ-OuOgg",
+        "name": "通信2304张一楠",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_TcOWBoZSaMpK_nBkuCtuIQ",
+        "name": "睡着了",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_y5yiJjtgB3CL1GXbK0h0BQ",
+        "name": "电信2002甘晋一",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_U6xeQWR90WmopvoHB1MHVA",
+        "name": "电信2404胡浩",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_wIdoTq5AH1JeYOGn7f2AGA",
+        "name": "提高2101钟伟鹏",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_D1JGP_XIm11_EmPucg1yVg",
+        "name": "电信2103吕搏轶",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_8iLgWZ3rnHyWTe8D2YYMHA",
+        "name": "提高2001石昭",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_3X3bIEPz-qIsio6FB6Yrmw",
+        "name": "电信2401张圳",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_TQ3M5JJLjSmnTkEAItM4xw",
+        "name": "asd",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_0KnDtZ2w1Kdy9TwxJNd_IA",
+        "name": "电信2103赵璞",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_LnHHEfgIOvEb7NnqXpE-xg",
+        "name": "电信2205-戴子尧",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_7Tgfm9MNtiAr1fAfvheyPQ",
+        "name": "电信2101夏炎",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_rEz3llubgp-vVj2Aew9EIg",
+        "name": "通信2101-叶震浩",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_rKqt_HHgA9l15YHec4A_Qg",
+        "name": "越",
+        "messageCount": 3,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_2W30Ep_UMBj_V3lde_PVrg",
+        "name": "电信2404何森扬",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_vAg24QUaa2hlamB500p2Gg",
+        "name": "电信1988-袁浩然",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_dg3umNV6QJr0zIeYw0UvGA",
+        "name": "通信2204-张锦茜",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_fPFWeFuzpLNf13Gn3sImNg",
+        "name": "通信2202单余焰",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_FInjxjxidQKxzStogAFLCw",
+        "name": "电信2403郭意菲",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_ep71uLdcAKFLTQ8axEsJ_A",
+        "name": "电信2404邓可瑞",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_f0bPBNM81GF56isLKCWwKg",
+        "name": "通信2405汤子昊",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_zWcFYCs9B-V_xv2LT61lOw",
+        "name": "电信2202龙文振",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_l-B9uo2pis-p3f-rTR2frg",
+        "name": "信卓2201陆天洋",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_Dv4gzTYuBsH2m3IXFJB_-A",
+        "name": "通信2404梅兴惠",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_BI0XCTgtw0dheapVWjwXEA",
+        "name": "电信创新2402林达",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_2MKK2UnW2O0Y1mNxr2L2sA",
+        "name": "信卓2301吴知轩",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_pPN63r6-GfRNXwoDE7kHKg",
+        "name": "电磁 2301 尹朝阳",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_aIULfxQyQ3u_C8hta0oX9Q",
+        "name": "电信2002-蒋小星",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_aF2N53F6CKp8JcrZp1FcZg",
+        "name": "电信四班－吴越",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_9nzd8voG6UAkj6XMGnUYGA",
+        "name": "2101周睿科",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_ckIZbW91Bom53ypWy2JK_g",
+        "name": "电信2204李佳悦",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_TDybTRFyW0r_gQS-p1vb6A",
+        "name": "电信2201郑哲",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_KcuD5vwBR6MKozaDOZDNrA",
+        "name": "通信2201-吴晓莹",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_7Lvu6vVIhHXwAj5-Dfx9_w",
+        "name": "通信2303薛懿峰",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_03_Hc_cHG6yNVOiFtsN3LA",
+        "name": "通信2303班周奕晖",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_tEmBoW3mr3Fpx3E01wqogA",
+        "name": "电信2204-徐坤",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_a96U7PE5qe7Ci-4hu3VG7w",
+        "name": "23级电信2305黄基坤",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_pssAkWQX0262_61YsjG6QA",
+        "name": "种子2201吴文彬",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_obNnWKyCdH8olCTWj3ruQA",
+        "name": "通信2003黄龙海",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_LBdGz9ooQcHlJxA_qfDrLQ",
+        "name": "电信2307支任熠",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_6ZizGNui5EEBI2I1IffL7w",
+        "name": "电信2204班-陈长泽",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_09ssCSWJdqv3XqzlIFWimw",
+        "name": "电磁2301曹骏",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_1x9QkWOPD-iiOBZdtFnJGg",
+        "name": "电信2301班-杨子凡",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_kmXEQf63UGiVxl7s1-kyqg",
+        "name": "通信2001-夏祥伟",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_4dqBjulzQdt-tH7Ddim7cg",
+        "name": "电信2104 潘书熠",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_QpyI92tdK5Sy4fkXsZdPYw",
+        "name": "电信2205刘晨",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_Yx3ElTUhUE9RFWfSqq36_g",
+        "name": "通信2404汤怡杰",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_1ovrb1Orft9ZWNsbEGJHDQ",
+        "name": "种子2201黄宇涵",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_sRMLy40IeDK9ZdyLjI9rAw",
+        "name": "提高2201 李家圆",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_Ciwb6ZWVfuNviyG6pKlnIg",
+        "name": "通信2104-孟驰",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_YewC0r5JDIWHc1f-teA3Rw",
+        "name": "23 通信 柏昱彤",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_qiATppx1lCdZ1nd5Hm8lKQ",
+        "name": "信卓  胡同真",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_dg-7uawzaDmg1a8G_M2nlg",
+        "name": "通信2204-王佳仁",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_aWLA8AVl7tkaPULihKVAqg",
+        "name": "电信2203 齐云清",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_t7xibnkt4Uaw1P5rMtwZkQ",
+        "name": "信卓2201-王朝阳",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_iK3Ym8qnFJ0v_3KD9qH2hQ",
+        "name": "通信2304-庞亚宸",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_MNc5hvjnc3xeBuup_qNNPA",
+        "name": "23 电信 郭玄烨",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_zC1ERYkLfJ46v5-pzAYecg",
+        "name": "电信2304董昱崴",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_QbEFoD5CclICdWM9Pdq2lA",
+        "name": "电磁2001-时豪",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_O3qc-6EbN70B3R0JcQyyDg",
+        "name": "Friedlich",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_8qXcQNBBW-mBOesbliQg_w",
+        "name": "通信2104华唐萱",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_R8fJpZCEyRI84NcR0APrCQ",
+        "name": "电信2103刘洪晖",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_O_tmkNPoAW0s1W9TDktxCA",
+        "name": "提高2301 吴宇翔",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_JBof5GAqYfjxZZFj1IGhHw",
+        "name": "电信2102戚圣睿",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_lp3PYlUeqN3tz7oYqHFgyg",
+        "name": "起点",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_tWPaMjzGXSP9FwSulgwhNA",
+        "name": "电磁2202-何苏洋",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_w40GGtsEW1fk6Pl3yzSRfQ",
+        "name": "电磁2202张栩珲",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_BBlas25I6OykzQ7zx4zWHA",
+        "name": "电信2104张功运",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_qDmgdWyNxiF3HQYNYlG6Ow",
+        "name": "22 电信提高 谢霖舒",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_gq0b-YqzbhDeBvda1E_d3w",
+        "name": "TylerOnmyPlates😋",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_7i8MJfOWYQYjFz0W6L5qBA",
+        "name": "电信2411熊志轩",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_fdsQ3IllF-Eu7lQhh11GZw",
+        "name": "通信2201薛力源",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_WK8-uelsROLaQM3fvMqjEQ",
+        "name": "通信2201罗怡萍",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_J6XzqeTsSbGSPY_vic8tBg",
+        "name": "电信2202 徐金阳",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_BshnSvq6aATe1sizlKmgkQ",
+        "name": "电信2405陆妍",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_Duf4o-zvuCLKZ-XYQwt94g",
+        "name": "电信2404胡袁开泰",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_mf6BMvmH1wic0UUsVdPQWQ",
+        "name": "2403曾紫婷",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_WkBNWCQPykmPWY1JoYbLyQ",
+        "name": "电信2404陈谦",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_-qJe2SN3TgC8NMfa9J3q-w",
+        "name": "电磁2102-刘旭",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_fhF65vGcvG53_iEOnPLxYQ",
+        "name": "电信提高2201徐文涛",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_s7rE7UgijninpMvZ4j3hMg",
+        "name": "电信2005-赵翔宇",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_SnTZwGFuI6kEVRyVeGYsMw",
+        "name": "电信2304-杨梓盟",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_6yKt-wRBTfrt-TG_TDw-MA",
+        "name": "电磁2002-周寅生",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_muvLZP9h0R77ZfmnQMR8IQ",
+        "name": "电信2404柳鸥宸",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_c50lGyB0IHH3QWPtkaq15g",
+        "name": "通信2102郑建海",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_sy368iHEztnuS84ntz-Stg",
+        "name": "电信2204 蔡金阳",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_BX-DowRGxtHn2N-EHKAb-g",
+        "name": "电信2206蔡京晔",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u__i0fwjXE133SvV6WRmL3Bw",
+        "name": "电信2411李航",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_rtgK9OrdrDysCC4E7yGa6Q",
+        "name": "通信2103王昕骏",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_uT343cGMBjScHzFycAG_rg",
+        "name": "通信2302钮晨灿",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_7Vi5M2dmiYBPGN4lFV6Uew",
+        "name": "通信2103-王文韬",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_MK47nqGewZZj5YKc6LXSLw",
+        "name": "电信2102-魏晓曼",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_Kz3d9NJ_15HsFISaUcd16g",
+        "name": "电信2105贺思成",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_PHGztw6RWx8oip1O27JdGA",
+        "name": "电信2105邓捷升",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_TPC3cwB4e3VcuPQCIqp0-A",
+        "name": "提高1901戴祥祥",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_Lg1WgtXRdJiUKxrzCrT1dA",
+        "name": "电信2412sym",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_G0o6s1APmrEx1Ap9boZdwg",
+        "name": "电信2404张瑞麟",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_V0Kfv45k6YesyQdDI2ayLw",
+        "name": "信卓1901李梦寒",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_WT0Mwuq67WViRnxua4wv1Q",
+        "name": "通信2102-陈昱润",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_6A5WRN473JhSlaSP4aWHLw",
+        "name": "通信2201赵乐蓉",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_d_L2aUrnoXSOlTFoE54eXg",
+        "name": "电磁2201-陈仲儿",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_uT5LwqwuDXk4OhzMQm9Ctw",
+        "name": "电信2309-杨承阳",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_LPPJbuZj8JOWdfSxQwcYFA",
+        "name": "信卓2301黄明新",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_NWNpGJ9bHpngHht5c1e2yQ",
+        "name": "通信2101熊金林",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_fdcVR3FmB-Z8CvVepFXe2g",
+        "name": "电信2405严超",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_2274RYDDJ7Rfpbi9dQL_CA",
+        "name": "电信2004孔垂银",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_PR-WWpLfuu8r3pqTG5bA1w",
+        "name": "2307吴思宇",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_cbv1-zd4cUqpVwLTSZJRdg",
+        "name": "电信2102鲁定刚",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_p8XPK0RE4OTs9h4nBE3V4w",
+        "name": "电磁2202—陈品良",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_rwYWSifreiAFlQoJsdpe8g",
+        "name": "通信2102刘聪",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_BJNvsAZ1d3jAGq4q3-C2Yg",
+        "name": "电信2202-彭贳乾",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_O3cZyYdbQYfRQGzbkqVWHQ",
+        "name": "电信2302 彭浩珉",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_t-xgxs8HiLmxSdQ1JFRsZA",
+        "name": "电磁2001 杨斌",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_aIbpw1N02DtVum76WamKmA",
+        "name": "电信2102黎子龙",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_BVO74YJzHPUJk0epCsY65A",
+        "name": "电磁2202-万志嵘",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_BX6OieA4nBtHYuuTiZjA8A",
+        "name": "Bael",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_8LzcjYMlOn0BgCFtBwo1Tw",
+        "name": "通信2004-刘子杰",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_IO4XY-Cqze_wOGHWTaCSpg",
+        "name": "电信2404王子文",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_x1_NeFgFJE3RvsaGsmrUjA",
+        "name": "电信18",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_DgkltHxKH3-6r7fYNDRYqA",
+        "name": "通信2204夏华泽",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_Gmmptvp6efiTPgb9vxIVUw",
+        "name": "通信2004-陈园",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_iLZ1Q_zxvxRWuBwvlh5Rlw",
+        "name": "电信2307吴冠瑜",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_pVAtz8mL3f2H5489ZJnLxA",
+        "name": "电磁2311-彭啟",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_UeMgZeC-I2Cb3meEAbmgEw",
+        "name": "电信2404邵敏洁",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_se4AU9rfQy8_Tm3FYNWumw",
+        "name": "电磁2102张合",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_EAoD59BLn1X1jOanOJVt3A",
+        "name": "电信2103肖正",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_2O59pJ9tAB7xLJll7uZTeQ",
+        "name": "信卓2101尧靖杰",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_81FJZBTc1WlUB4lOvp6sdA",
+        "name": "通信2104周子琦",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_DqcuXZOEMD_S3G-cYAeFQw",
+        "name": "电信2105-朱前宇",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_mws3tvscd0-92tqu9Aqlbg",
+        "name": "提高2201 魏皙桐",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_bSqmWPoyOdUxqnO5Y728aQ",
+        "name": "武神八卦",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_EdjGzmc0OCCdjBNMsfLiAA",
+        "name": "2402陶博文",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_OANkU4ANyO6ePBt3mTTzzA",
+        "name": "电信2302李恩祈",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_5hTdrdfz6WiKHvyRhxvZPw",
+        "name": "哥们我最爱钱💰",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_ZM3JfsUpbtGyv5OykcZE0w",
+        "name": "电信 2406 张深淮",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_V0NqLEljj-nb-iMT5KjKgA",
+        "name": "电信2410程智宇",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_8XIhZEGb3mkHHOUcenSmMw",
+        "name": "电信2104邬雨涵",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_sUnxBTV7l-XBU1VTgu3cGw",
+        "name": "通信2202-胡波",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_gTNkLfQnztnWhd-RSexSqg",
+        "name": "电信2105张晓菲",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_2EOGBvLi7E3CkqcSe-DHvw",
+        "name": "提高2101-杨萱萱",
+        "messageCount": 2,
+        "percentage": 0.01
+      },
+      {
+        "uid": "u_TXuehTMSF1LV-7C-gHCixA",
+        "name": "电信2203汪曾植",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_0aNgaPmD2M2iaw5G2gNHrg",
+        "name": "电信创新2402吴明宇",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_IM77vUexcx600ZFHsDP-yg",
+        "name": "电信2304邓嘉诚",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_UuRsPP6nbV1GoF2byeMLYA",
+        "name": "通信2204 潘逸晨",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_M0TojIjyJW7chj--9mprNw",
+        "name": "电磁2402黃嘉輝",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_uG00BfyAHMAavhAUpspdKg",
+        "name": "电磁2202-李启宇",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_Xks9P5jADj6NJjZA47v3yg",
+        "name": "电信2301刘亦凡",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_UkR5YU4V1q9RXSjMmULPTA",
+        "name": "通信2302孙皓庭",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_7mR04hpX7D8RJ0k8-VlYPg",
+        "name": "通信2303郑启明",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_GIFuA7_PkpRazj5OixlgQQ",
+        "name": "电信2304何英超",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_fQb0TxSfoQRlLhePuJ_UTQ",
+        "name": "信卓2402谢仪凡",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_drPBUtYw7MoC1EGScFlHtQ",
+        "name": "电磁2301穆华林",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_MduyWZWMkp8mn-WD7zU7Ew",
+        "name": "电信2301 欧德乐",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_-I88oIgjJWYLBTl_LIhbZQ",
+        "name": "电信2305朱唯维",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_1DxTYnJn4MnMaP_AkhnJIA",
+        "name": "通信2401张占祥",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_iN2fFIE3BMhRQ8IS_uhXoA",
+        "name": "电信2403曾钰锟",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_xuKrEYTgFck1H6GN4Je72A",
+        "name": "电磁2201唐锋",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_Qlk8p6PEO6g5ISkWzZE3tA",
+        "name": "电信2205班萧祈楠",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_oIIVmr7d8rPbdCOQkWfktQ",
+        "name": "电信2407严富贵",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_HzvkK9ILU5IBX0rygBiNqA",
+        "name": "电信2301曹正昕",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_9dpTzjjhXd7n_HGJsgi-5A",
+        "name": "电信2302鲍尚哲",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_FQcI7VxQIKG0UnVBozR2rQ",
+        "name": "电信2204张宇昊",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_NsZU_xzmcRfD5C4fSgbwzA",
+        "name": "Hideaway.",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_JQ4nZInYTqumbZcRSQ-t5Q",
+        "name": "电信2302张喜莹",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_5AP1Hj0RPDskZ9gMt49PrA",
+        "name": "电信2302石珂",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_i3HnwWR4fn4qI8ULyQjyAQ",
+        "name": "信卓2301曾高兴",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_O-eXPPDg9e2zUDPFX4D75A",
+        "name": "电信2308—严宽",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_t2z239fKRxqJpDc-Ikbzlg",
+        "name": "电磁2201班-王贺",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_Bx087PMV_x1zC2yvr-EToQ",
+        "name": "电信2404刘书岑",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_BmBdnjQQWS6DX4rWgFtJiA",
+        "name": "24朱悦婷",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_nOERkAYU_36uj0LL43PP2g",
+        "name": "种子2101 张子陆",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_Z-wp0xhW-eZOZL-9cihxzw",
+        "name": "信卓2001-解佳衡",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_Ie4R8WzsAeVIirqUCTMNZQ",
+        "name": "电信提高周子怡",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_zuOfFQnfOXAfOcTAW-IsnA",
+        "name": "通信2303-万翔",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_fBSnVyK9wBsyBxXAvulI8g",
+        "name": "通信2003乃比江艾尼娃",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_QY9WCYB_QB9XnCzT8ksr9g",
+        "name": "通信2201-吴畅",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_RgUKEmvYATGpC510q-smjg",
+        "name": "电信2411张明远",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_1Ycisu9VqjTi3mQ_Nb5tyg",
+        "name": "提高1901 朱玄",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_mhwWQCzjjdO9qr3LPPU_WQ",
+        "name": "通信2301-曹旗",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_zGfWybX_UQILkwurjnmgcQ",
+        "name": "通信2301张博钊",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_NsKsHAT_u6SBsZ0HchARpA",
+        "name": "电信 2303庄粟登",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_LLodFllUsfX8fVIVJGzoWg",
+        "name": "通信2301刘王奕轩",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_6i1zQYjyAsGSsLv2qwE0ig",
+        "name": "电信2102杨明锦",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_inwtsFhNXcYxIXxr5_C0Qw",
+        "name": "电信2206-洪筱婧",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_wfNdLl14PYKV2BJUL0pYEw",
+        "name": "电磁2201胡思昊",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_O1vdiTyQT63LJpn6IZP7fg",
+        "name": "电磁2002-蔡思楠",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_ZhKDrnWlSZcm6Te0Dxxc7g",
+        "name": "-凌澪-",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_kROFvXfNB9NqPOeEMQhBig",
+        "name": "电磁2102姜未琛",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_0UBr0Cgo-cLeMTMKmpL0Vw",
+        "name": "2309章曼莹",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_DDTB8YZ11S83pAphfpyySw",
+        "name": "电信2302-于凯",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_u5DfqtJGixKKKtufzZJ-wg",
+        "name": "电信22黄河清",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_x9jOy8GgFeuzpp7kr6YyGQ",
+        "name": "种子班-史少博",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_ehfxHanK5O2TGhawvP2Vgw",
+        "name": "提高2001-宋悦豪",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_bWzFV22MbnMRKmkxWs_sng",
+        "name": "如是观",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_qKtmKXYZ3hYoxsqFl_3u6g",
+        "name": "22 电信 姚宇轩",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_0EHn0ntlSD5RPMDq0f0yKg",
+        "name": "电磁2301  刘旭扬",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_tGTiLqHiFZZQ_1UxYtZQ4g",
+        "name": "提高2101付诗雨",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_CxrrxLKgY6bHF97K5dimCw",
+        "name": "种子2101-庄尚文",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_WFOswYjqqZEe_mdNaDzPBw",
+        "name": "电磁2102班谢安勤",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_4IjeS4x0zxpXGivdO2cFCA",
+        "name": "电信2203-彭瑞",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_6i7jDPA0S9Y_s7pzwLTH0g",
+        "name": "电磁2201-汪航",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u__HXMWsBNAB57TJJzvVTMWQ",
+        "name": "通信2204-韩秀奇",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_JstiueEhP0T4u_eDXSQ1kA",
+        "name": "电磁2301-李柔婧",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_EptE3TTD_HoP15czaGWGOw",
+        "name": "清风の幻影",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_iM6DuZQ0tFV3tmy00EQnUg",
+        "name": "电磁2002-胡志恒",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_6BB7l3wMpMNMBCsIwSH_7Q",
+        "name": "电信2201-何若愚",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_XtUEiymu39gY0C_SLJSpAA",
+        "name": "电信2403周雨杭",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_qsbKTit11gunI-xVqIf9OA",
+        "name": "电信2206-马超",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_Y9wJYiIK155-Xq-w7U7obQ",
+        "name": "通信2411-范家琪",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_qjD-K3NMbWRxCINc1VbtVg",
+        "name": "three.",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_VAHHUOoFssymqzFoz4OoCA",
+        "name": "电信2411芦泽豪",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_DYv5XzhDFMer9U93ZF53zQ",
+        "name": "通信2201 葛俊岐",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_Q-Xqe3US_hdBQ2vyilmzWg",
+        "name": "电信2202易笑天",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_Wk2VMHN-3VLwK0lPfB7Xww",
+        "name": "电信2205刘泰源",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_WRmDPZZX25hcj0M32qiG5w",
+        "name": "电信2405夏博杨",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_ZsXrc8jBIgJeBrfGngFo1w",
+        "name": "电信22潘悦晨",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_FI4f8kNLwMWt3imgjxOa8w",
+        "name": "电信2408 常宇博",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_Y3aIOCgRYW69C-rNxf_JVg",
+        "name": "while (i)",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_iPk6gbTE3xSARhQ9QKSBig",
+        "name": "电信2302-张凌云",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_0HlIzGbde0c62k1XMyYOeQ",
+        "name": "电信2408-宋张",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_jb2KrdgQepUTogQghr3kWA",
+        "name": "信卓2201-钟锦鸿",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_koRl8VM6imbv4pH3bjFjKg",
+        "name": "电信2301张展翔",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_oMlmUW3j6b1HtEZ8R5HT3A",
+        "name": "电信2305李云泽",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_IWHBz7Tu8PACrZdicmYUfQ",
+        "name": "电信2304-赵思雨",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_lEN_T97xPaQ-xEj9y6Q6Pg",
+        "name": "电信2411班庞家旭",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_CHYhDIIII6MVNzsn9I08TA",
+        "name": "通信2301陈钊",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_Mv9YGeJ12vB9ShLhSgjTlg",
+        "name": "电信2309王柯",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_yl3sfexbvctA9jLh93Hpwg",
+        "name": "电信2201-魏思铭",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_4hgST8hejUXHKk6CK0nnCA",
+        "name": "24电信党颢",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_41eHseXnWThvL-VK9DuUdw",
+        "name": "电信2411苏欣冉",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_FAxdFfabP6vAJYiim1wELA",
+        "name": "电信2001-黄博",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_4Lz6TrKJp3NzGxHrwXihzQ",
+        "name": "提高2301-冯齐岳",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_0QLT73lc_6jH0cNi2CHkPA",
+        "name": "电信2304-朱燊龙",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_flH2wiwAN37pc9IYMa_r0A",
+        "name": "电信2105-高讯",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_EouOPcxT1GwKjkgyIBfzPA",
+        "name": "通信2102 王辰卓",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_Gj_ZuqOFD5_WSXuvqxOoWA",
+        "name": "通信2303-欧友坤",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_vKzjJjCq0MMIVojx5Up5bg",
+        "name": "电信2301王栋华",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_ZzUya4qqw0vdLBmgXo5xWg",
+        "name": "电信2401-王琦钦",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_0-UHFAwre5J0GQMi7GBE_Q",
+        "name": "电磁2001王硕",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_LgLGqpnzB3BbtArkrVHeyw",
+        "name": "信卓2201朱慕奇",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_kBOCQ8waFioJZF7LqqMs5g",
+        "name": "电信2004-刘安琪",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_iUdh1hrHQdKT6wCES5L21Q",
+        "name": "电信2411谭玉峰",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_DWyHGe3Ly25ESS33Y3unFg",
+        "name": "电信2104王折",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_mN8ddQIVr7xPXHnvomm00g",
+        "name": "电磁2301蒋凡金",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_gl1V18nZk5AUdL0qB6g0hQ",
+        "name": "电信2301陈曦",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_sx5BVZc0YxrmrLSUAW8t1Q",
+        "name": "通信2103王皓玉",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_AgOj_jEEZrqn5swoHphDWA",
+        "name": "电信2407高震华",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_Wtcot7KtEOlJ_SGt5xnyMw",
+        "name": "电信2202冯国艺",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_oFTACWU6tDbb-DKVz3ELvg",
+        "name": "电信2201杨浩承",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_irGBzlmNFjDv-pResYccRA",
+        "name": "通信2002-吴宇飞",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_vYNSNDsC9i5Afrb-nk3vrQ",
+        "name": "电信2202班易俊哲",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_ADMIA4-gy-v9AWBrpZvJAA",
+        "name": "通信2101胡天宇",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_s2n9kqAP7XYADd7AtExHzQ",
+        "name": "吴雅歌U202413520",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_R-Kp5h1FdEvYDKZzWk1_iA",
+        "name": "电信2101胡德祥",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_AbQLUMcxNF5rd7HPSPyXBg",
+        "name": "靳晓博",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_WKRsOGml6heurJjn8r89Cw",
+        "name": "信卓2101廖伟航",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_xTIX2v3vZyC0hPkute478Q",
+        "name": "电信2102孙骏飞",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_F6cJVtzNvCea5quFQ0X6Xw",
+        "name": "电信2103黄哲",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_MXc3RjpjdzCRpHxhk09aOA",
+        "name": "提高2001-周楚骎",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_XldcjuGHaLzlNzLvwL9dWQ",
+        "name": "通信2204甘霖",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_ucU5VjzyDMXY8QGD0lTACQ",
+        "name": "通信2002陈堃",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_Gt-be4Q5-ycI6ujekugrNA",
+        "name": "通信2204魏泰豪",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u__zWhb-RhhbNO2LuDXMebow",
+        "name": "电信2202李宇暄",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_unM6nwu5hoC3FTmJCSJC_A",
+        "name": "电信2202程祺琛",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_zbOE6SEo4vhj4gFp9IrDUg",
+        "name": "提高2001班邢玉杰",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_PM00Rt4twqJ_ObvOkKdZKA",
+        "name": "提高2201-肖宇琦",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_y2AexifndmgobwF5NPBn0Q",
+        "name": "通信1903吴闯",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_muWbX1nLGgNKua8aouTrWg",
+        "name": "电信2105黄程旭",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_wYclX-yYEB9wMxmfX8Ng4g",
+        "name": "电信2301漆童",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_pzofpRk1eS2ny8X36IDVHw",
+        "name": "电信2408林彤",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_GRGxq2LNYsAca7r9q72lOg",
+        "name": "通信2104贺俊棋",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u__fDgUtHMOlem0AsACeWOsw",
+        "name": "23电信吴俊杰",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_o2BOz44q-y4t8RB7swBTCQ",
+        "name": "22-通信-胡玮承",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_dqhwmYYrB_4br555aFYwWw",
+        "name": "电信2301田子扬",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_3yRbsAZvtihP504ikGw4_A",
+        "name": "电磁2102-杨文辉",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_VZnTYES2gWRJodKqMgoFYA",
+        "name": "通信1904班王嘉盛",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_OO9n4S1uYUQSkxI6cdhx1Q",
+        "name": "通信2204陈浩军",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_ih1RPqJ7AqICv-gS08eK1g",
+        "name": "恶鱼",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_zctyK54axUXoJzTK3HPcdQ",
+        "name": "电信2103-徐聪",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_25N0hgCDgRYtOOa70lEG4w",
+        "name": "电磁2102徐智高",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_Xg3ed2ANXPH7LGHs8nBaQw",
+        "name": "通信2003-汪天健",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_U589y2Xw9NOBUGDK_DXfBw",
+        "name": "宇宙第一昼",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_a-XoppsofoaJrEukf-GLSA",
+        "name": "通信2101窦家赫",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_-M13Iy-YrDK0xHekr_a3Bg",
+        "name": "电信2402 赵翰",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_d6kdFtsZ66TQXHHmRJWVmw",
+        "name": "电信-2003-班-马文森",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_KHzFPs_nHei_Db-l04j7jQ",
+        "name": "电信1905吴依婷",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_GMX0Kma4sdX5oVmU4KOzvQ",
+        "name": "通信2104金广朋",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_FkLVIdMNJ9I3Av_nX-Zj3Q",
+        "name": "电信创新2402李亦能",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_HtkV8qb0uIBuW-lcRySpqg",
+        "name": "电信2110贾茹婷",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_jGAPlztoqLvDBjFrZOuAJA",
+        "name": "电信2105 夏明阳",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_nUiRh2vuN8T7tNIi0YHJUA",
+        "name": "Smile？",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_QWpjz-GuucaBIXrOJkmFiw",
+        "name": "电信2003-盛楚林",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_oX5TVzBajPYOSjLp7HuvcQ",
+        "name": "通信2101-杨逸飞",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_dPtumhx0m-I11xvyAlZ4Cg",
+        "name": "21信提刘琪",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_Q90DrEnQsy4JoJqVH4aAMQ",
+        "name": "电信2301彭晗俊",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_JNplwa8cKFflHRT5XZg6xA",
+        "name": "沁汐肀",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_bTxid2o9ATOv0dMuqLuK5w",
+        "name": "电信2105章子淳",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_KbGvrHUZ0AB4s_mmL3HF_w",
+        "name": "通信2104赵晨呈",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_bvkIAxOv-EEDkJV-UL6I7A",
+        "name": "电信2108-黄锦坤",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_srqcHveEVfr4UYX_P4FToA",
+        "name": "电信2102肖阳",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_HivJoGyKMOCHr-1xuOoSXQ",
+        "name": "电信2101熊飞洋",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_8ZNrnlei4UzZBJabvnvCvA",
+        "name": "通信2203陈睿涵",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_cpNtuGFKBgi0NF770aXYVg",
+        "name": "Kq",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_W0SNPptpMQAqPDv64sD4Xw",
+        "name": "电信2402文锦谦",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_MSJDFDCodtaXzR3eXpRSYA",
+        "name": "电信2401-贺胤盛",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_UGWjq0heSExTXVxu7xXYFA",
+        "name": "电信2401陈智勇",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_SAAZJpjZEAF5knVg2AGU4Q",
+        "name": "赫尔辛根默斯肯",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_P6FOtIQOxlqLaabNS7rzxw",
+        "name": "通信2204班宗昕彤",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_DrwD1PhgLs2rPjqY1ibWzw",
+        "name": "2309佘依迅",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_yec23Vrwj8CdIRqtELVCSw",
+        "name": "1Zhou",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_ifKgVVD3mIo0yef-AO5oVg",
+        "name": "电信创新2402-郑辉盛",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u__qdrm3dKkyHC3u2ofVp6vA",
+        "name": "通信2204刘澄昊",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_yYnvlRm6p0Aolfo_yp3AHg",
+        "name": "通信 2201 李涛",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_VrFL5mvmIK0xkYMNlEndDw",
+        "name": "原子",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_z7o39nGh5tRkwnLWOe6nIw",
+        "name": "电信2309 苏秭轩",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_VRiJc5m7OERaOh1S_F1a2w",
+        "name": "电信2407穆欣雨",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_KIkQUUtAZFYv96Fo1rb0wg",
+        "name": "电信创新2402杨景成",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_0zIcd3LPiIKHWfP6PVCczQ",
+        "name": "电信2102-王欢宇",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_e6eOx9xQVUBhY5E_lJnU1w",
+        "name": "2304－吴一鸣",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_-T4AKIR_RDXMfaL4LTtdBg",
+        "name": "电信2302 刘创",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_BvOKIjmk6-T009b_KuyArw",
+        "name": "电信2101王艺涵",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_Xt98781gTMrhil5zNdcTuQ",
+        "name": "电磁2002-麻天轶",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_g8aV-G0ZXUXA3ZyvexqRCQ",
+        "name": "myx",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_ZuBnFsxFDrltY7h7oknGzw",
+        "name": "信卓2101 刘瑞淇",
+        "messageCount": 1,
+        "percentage": 0
+      },
+      {
+        "uid": "u_22x2zGdt4Qtaqfa72Lerqg",
+        "name": "信卓2101王梦婷",
+        "messageCount": 1,
+        "percentage": 0
+      }
+    ]
+  },
+  "chunked": {
+    "format": "jsonl",
+    "chunksDir": "chunks",
+    "chunkFileExt": ".jsonl",
+    "maxMessagesPerChunk": 50000,
+    "maxBytesPerChunk": 52428800,
+    "chunks": [
+      {
+        "index": 1,
+        "fileName": "chunk_0001.jsonl",
+        "relativePath": "chunks/chunk_0001.jsonl",
+        "start": "2024-08-28T04:54:34.000Z",
+        "end": "2026-05-19T03:59:26.000Z",
+        "count": 23558,
+        "bytes": 17795296
+      }
+    ]
+  }
+}
