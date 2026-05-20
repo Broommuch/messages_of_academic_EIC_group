@@ -13,3 +13,7 @@
 - 当前目录下`group_20240829_20260518.html` 和`/resources`保存了html版聊天文件和相关群文件，点击html文件即用。
 
   而`/group_20240829_20260518_chunked_jsonl`为json版，可独立使用。
+
+
+## 20260520 fork
+转存于他人的git项目
